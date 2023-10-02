@@ -1,3 +1,8 @@
+Don't disable E-Cores
+
+Hyper-Threading Technology: Disabled
+Intel Speed Shift Technology: Disabled
+CPU EIST Function: Disabled
 Above 4G Decoding: Enable
 Above 4GB MMIO BIOS Assignment: Enable
 Re-Size BAR Support: Enable
