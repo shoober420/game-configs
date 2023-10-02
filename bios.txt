@@ -1,0 +1,3 @@
+Above 4G Decoding: Enable
+Above 4GB MMIO BIOS Assignment: Enable
+Re-Size BAR Support: Enable
