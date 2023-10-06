@@ -1,0 +1,34 @@
+##### For use with 1024x768 resolution
+
+### DOT CROSSHAIR
+# cl_crosshairalpha 999;cl_crosshaircolor 1;cl_crosshairdot 1;cl_crosshairgap -5;cl_crosshairsize 0;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 0;cl_crosshair_sniper_width 1;cl_crosshair_drawoutline 1;cl_crosshair_t 1;cl_crosshairgap_useweaponvalue 0;cl_crosshair_outlinethickness 0.5;cl_crosshaircolor_r 50;cl_crosshaircolor_g 250;cl_crosshaircolor_b 50;cl_crosshair_friendly_warning 0;cl_crosshair_recoil 0
+
+### ALTERNATE CROSSHAIR
+# cl_crosshairalpha 999;cl_crosshaircolor 1;cl_crosshairdot 0;cl_crosshairgap -3;cl_crosshairsize 0.5;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 0;cl_crosshair_sniper_width 1;cl_crosshair_drawoutline 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshair_outlinethickness 0;cl_crosshaircolor_r 50;cl_crosshaircolor_g 250;cl_crosshaircolor_b 50;cl_crosshair_friendly_warning 0;cl_crosshair_recoil 0
+
+### CS1.6 LARGE CROSSHAIR (-stretchaspect)
+# cl_crosshairalpha 999;cl_crosshaircolor 1;cl_crosshairdot 0;cl_crosshairgap 2;cl_crosshairsize 5;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 0;cl_crosshair_sniper_width 1;cl_crosshair_drawoutline 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshair_outlinethickness 0;cl_crosshaircolor_r 50;cl_crosshaircolor_g 250;cl_crosshaircolor_b 50;cl_crosshair_friendly_warning 0;cl_crosshair_recoil 0
+
+### CS1.6 LARGE CROSSHAIR (without -stretchaspect)
+# cl_crosshairalpha 999;cl_crosshaircolor 1;cl_crosshairdot 0;cl_crosshairgap 0;cl_crosshairsize 4.5;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 0;cl_crosshair_sniper_width 1;cl_crosshair_drawoutline 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshair_outlinethickness 0;cl_crosshaircolor_r 50;cl_crosshaircolor_g 250;cl_crosshaircolor_b 50;cl_crosshair_friendly_warning 0;cl_crosshair_recoil 0
+
+##### For use with 1280x960 resolution
+
+### CS1.6 LARGE CROSSHAIR (without -stretchaspect)
+# cl_crosshairalpha 999;cl_crosshaircolor 1;cl_crosshairdot 0;cl_crosshairgap 1;cl_crosshairsize 4.5;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 0;cl_crosshair_sniper_width 1;cl_crosshair_drawoutline 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshair_outlinethickness 0;cl_crosshaircolor_r 50;cl_crosshaircolor_g 250;cl_crosshaircolor_b 50;cl_crosshair_friendly_warning 0;cl_crosshair_recoil 0
+
+##### For use with 1366x768/1360x768 resolutions (1366 preferred and more accurate 16:9 representation, 1360 used for older and cheaper monitors and TVs, less accurate 16:9 representation)
+
+### CS1.6 LARGE CROSSHAIR (without -stretchaspect)
+# cl_crosshairalpha 999;cl_crosshaircolor 1;cl_crosshairdot 0;cl_crosshairgap 2;cl_crosshairsize 5.5;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 0;cl_crosshair_sniper_width 1;cl_crosshair_drawoutline 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshair_outlinethickness 0;cl_crosshaircolor_r 50;cl_crosshaircolor_g 250;cl_crosshaircolor_b 50;cl_crosshair_friendly_warning 0;cl_crosshair_recoil 0
+
+
+##### For use with 2560x1440 resolution
+
+### CS1.6 LARGE CROSSHAIR (without -stretchaspect)
+# cl_crosshairalpha 999;cl_crosshaircolor 1;cl_crosshairdot 0;cl_crosshairgap 8;cl_crosshairsize 6;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 0;cl_crosshair_sniper_width 1;cl_crosshair_drawoutline 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshair_outlinethickness 0;cl_crosshaircolor_r 50;cl_crosshaircolor_g 250;cl_crosshaircolor_b 50;cl_crosshair_friendly_warning 0;cl_crosshair_recoil 0
+
+##### For use with 4096x2160 resolution
+
+### CS1.6 LARGE CROSSHAIR (without -stretchaspect)
+# cl_crosshairalpha 999;cl_crosshaircolor 1;cl_crosshairdot 0;cl_crosshairgap 12;cl_crosshairsize 6;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 0;cl_crosshair_sniper_width 1;cl_crosshair_drawoutline 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshair_outlinethickness 0;cl_crosshaircolor_r 50;cl_crosshaircolor_g 250;cl_crosshaircolor_b 50;cl_crosshair_friendly_warning 0;cl_crosshair_recoil 0
