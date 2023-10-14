@@ -9,5 +9,5 @@ Video game configuration files
 * Quake
 * Quake 2
 * Quake 3
-* Unreal 1998
-* Unreal Tournament 1999
+* Unreal 98
+* Unreal Tournament 99
