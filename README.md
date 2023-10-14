@@ -1,13 +1,13 @@
 # game-configs
 Video game configuration files
 
-* Chocolate Doom
+* Counter-Strke 1.6
 * Counter-Strike 2
-* ezquake
-* Hexen II: Hammer of Thyrion
-* ioquake3
+* Doom
+* Hexen II
 * mpv
-* tyrquake
-* vkquake
-* Yamagi Quake 2
-* Unreal Tournament 469
+* Quake
+* Quake 2
+* Quake 3
+* Unreal 1998
+* Unreal Tournament 1999
