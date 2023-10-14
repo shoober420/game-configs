@@ -1,7 +1,7 @@
 # game-configs
 Video game configuration files
 
-* Counter-Strke 1.6
+* Counter-Strike 1.6
 * Counter-Strike 2
 * Doom
 * Hexen II
