@@ -1,8 +1,26 @@
-Chocolate Doom:     Windows () 
+Chocolate Doom:     Windows (%USERPROFILE%\Downloads\chocolate-doom) 
                     Linux (/home/shoober420/.chocolate-doom)
 
 Counter-Strike 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\cfg)
                       Linux (~/.steam/root/steamapps/common/Counter-Strike Global Offensive/game/cfg)
 
+ezquake:     Windows (%USERPROFILE%\Downloads\ezquake)
+             Linux (~/.ezquake)
+
+Hexen II: Hammer of Thyrion:     Windows (%USERPROFILE%\Downloads\hexen2)
+                                 Linux (~/.hexen2)
+
+ioquake3:     Windows (%USERPROFILE%\Downloads\ioquake3)
+              Linux (~/.q3a)
+
 mpv:     Windows (%USERPROFILE%\Downloads\mpv\portable_config)
          Linux (~/.config/mpv/mpv.conf)
+
+tyrquake:     Windows (%USERPROFILE%\Downloads\tyrquake)
+              Linux (~/.tyrquake)
+
+vkquake:     Windows (%USERPROFILE%\Downloads\vkquake)
+             Linux (~/.vkquake)
+
+Yamagi Quake 2:     Windows (%USERPROFILE%\Downloads\yq2)
+                    Linux (~/.yq2)
