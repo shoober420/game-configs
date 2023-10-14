@@ -1,5 +1,5 @@
 Chocolate Doom:     Windows (%USERPROFILE%\Downloads\chocolate-doom) 
-                    Linux (/home/shoober420/.chocolate-doom)
+                    Linux (~/.chocolate-doom)
 
 Counter-Strike 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\cfg)
                       Linux (~/.steam/root/steamapps/common/Counter-Strike Global Offensive/game/cfg)
@@ -18,6 +18,9 @@ mpv:     Windows (%USERPROFILE%\Downloads\mpv\portable_config)
 
 tyrquake:     Windows (%USERPROFILE%\Downloads\tyrquake)
               Linux (~/.tyrquake)
+
+Unreal Tournament 469:     Windows (%USERPROFILE%\Downloads\ut469\System)
+                           Linux (~/ut469/System)
 
 vkquake:     Windows (%USERPROFILE%\Downloads\vkquake)
              Linux (~/.vkquake)
