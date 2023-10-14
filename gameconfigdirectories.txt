@@ -22,6 +22,9 @@ mpv:     Windows (%USERPROFILE%\Downloads\mpv\portable_config)
 tyrquake:     Windows (%USERPROFILE%\Downloads\tyrquake)
               Linux (~/.tyrquake)
 
+Unreal 227j:     Windows (%USERPROFILE%\Downloads\unreal227j\System)
+                 Linux (~/.steam/root/steamapps/common/Unreal Gold/System)
+
 Unreal Tournament 469:     Windows (%USERPROFILE%\Downloads\ut469\System)
                            Linux (~/ut469/System)
 
