@@ -28,6 +28,9 @@ Hexen II: Hammer of Thyrion:     Windows (%USERPROFILE%\Downloads\hexen2)
 ioquake3:     Windows (%USERPROFILE%\Downloads\ioquake3)
               Linux (~/.q3a)
 
+Left 4 Dead 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg)
+                   Linux (~/.steam/root/steamapps/common/Left 4 Dead 2/left4dead2/cfg)
+
 mpv:     Windows (%USERPROFILE%\Downloads\mpv\portable_config)
          Linux (~/.config/mpv/mpv.conf)
 
