@@ -14,6 +14,7 @@ Video game configuration files
 * Quake
 * Quake 2
 * Quake 3
+* Sven Co-op
 * System Shock 2
 * Team Fortress Classic
 * Unreal 98
