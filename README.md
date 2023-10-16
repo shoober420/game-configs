@@ -4,6 +4,7 @@ Video game configuration files
 * Counter-Strike 1.6
 * Counter-Strike: Source
 * Counter-Strike 2
+* Deus Ex
 * Doom
 * Hexen II
 * mpv
