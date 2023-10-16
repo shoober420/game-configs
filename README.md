@@ -1,11 +1,13 @@
 # game-configs
 Video game configuration files
 
+* Bioshock
 * Counter-Strike 1.6
 * Counter-Strike: Source
 * Counter-Strike 2
 * Deus Ex
 * Doom
+* Doom 2
 * Half-Life
 * Half-Life 2
 * Hexen II
