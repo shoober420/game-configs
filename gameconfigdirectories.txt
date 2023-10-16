@@ -16,6 +16,12 @@ Deus Ex:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Deus Ex/Syst
 ezquake:     Windows (%USERPROFILE%\Downloads\ezquake)
              Linux (~/.ezquake)
 
+Half-Life:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve)
+               Linux (~/.steam/root/steamapps/common/Half-Life/valve)
+
+Half-Life 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2/hl2/cfg)
+                 Linux (~/.steam/root/steamapps/common/Half-Life 2/hl2/cfg)
+
 Hexen II: Hammer of Thyrion:     Windows (%USERPROFILE%\Downloads\hexen2)
                                  Linux (~/.hexen2)
 
@@ -24,6 +30,9 @@ ioquake3:     Windows (%USERPROFILE%\Downloads\ioquake3)
 
 mpv:     Windows (%USERPROFILE%\Downloads\mpv\portable_config)
          Linux (~/.config/mpv/mpv.conf)
+
+Team Fortress Classic:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Half-Life\tfc)
+                           Linux (~/.steam/root/steamapps/common/Half-Life/tfc)
 
 tyrquake:     Windows (%USERPROFILE%\Downloads\tyrquake)
               Linux (~/.tyrquake)
