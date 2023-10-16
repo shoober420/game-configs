@@ -34,6 +34,9 @@ Left 4 Dead 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Left 4
 mpv:     Windows (%USERPROFILE%\Downloads\mpv\portable_config)
          Linux (~/.config/mpv/mpv.conf)
 
+System Shock 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\SS2)
+                    Linux (~/.steam/root/steamapps/common/SS2)
+
 Team Fortress Classic:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Half-Life\tfc)
                            Linux (~/.steam/root/steamapps/common/Half-Life/tfc)
 
