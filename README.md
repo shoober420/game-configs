@@ -17,5 +17,6 @@ Video game configuration files
 * Sven Co-op
 * System Shock 2
 * Team Fortress Classic
+* Team Fortress 2
 * Unreal 98
 * Unreal Tournament 99
