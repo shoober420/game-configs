@@ -40,6 +40,9 @@ Sven Co-op:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Sven Co-o
 System Shock 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\SS2)
                     Linux (~/.steam/root/steamapps/common/SS2)
 
+Team Fortress 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg)
+                     Linux (~/.steam/root/steamapps/common/Team Fortress 2/tf/cfg)
+
 Team Fortress Classic:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Half-Life\tfc)
                            Linux (~/.steam/root/steamapps/common/Half-Life/tfc)
 
