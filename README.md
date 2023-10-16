@@ -6,16 +6,15 @@ Video game configuration files
 * Counter-Strike: Source
 * Counter-Strike 2
 * Deus Ex
-* Doom
-* Doom 2
+* Doom / Doom II / Final Doom
 * Half-Life
 * Half-Life 2
 * Hexen II
 * Left 4 Dead 2
 * mpv
 * Quake
-* Quake 2
-* Quake 3
+* Quake II
+* Quake III Arena
 * Sven Co-op
 * System Shock 2
 * Team Fortress Classic
