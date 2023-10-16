@@ -20,3 +20,4 @@ Video game configuration files
 * Team Fortress 2
 * Unreal 98
 * Unreal Tournament 99
+* Unreal Tournament 2004
