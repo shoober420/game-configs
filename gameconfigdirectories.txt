@@ -55,6 +55,9 @@ Unreal 227j:     Windows (%USERPROFILE%\Downloads\unreal227j\System)
 Unreal Tournament 469:     Windows (%USERPROFILE%\Downloads\ut469\System)
                            Linux (~/ut469/System)
 
+Unreal Tournament 2004:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Unreal Tournament 2004\System)
+                            Linux (~/.steam/root/steamapps/common/Unreal Tournament 2004/System)
+
 vkquake:     Windows (%USERPROFILE%\Downloads\vkquake)
              Linux (~/.vkquake)
 
