@@ -1,0 +1,17 @@
+# For 800x600 / 1024x768 STRETCHED resolutions 
+
+# CS1.6 LARGE CROSSHAIR (without -stretchaspect)
+# cl_crosshairalpha "999";cl_crosshaircolor "5";cl_crosshaircolor_b "50";cl_crosshaircolor_g "250";cl_crosshaircolor_r "50";cl_crosshairdot "0";cl_crosshairsize "4.5";cl_crosshairspreadscale "0.9";cl_crosshairthickness "0";cl_crosshairusealpha "1";cl_dynamiccrosshair "0"
+
+# DOT CROSSHAIR
+# cl_crosshairalpha "999";cl_crosshaircolor "5";cl_crosshaircolor_b "50";cl_crosshaircolor_g "250";cl_crosshaircolor_r "50";cl_crosshairdot "1";cl_crosshairsize "0";cl_crosshairspreadscale "0";cl_crosshairthickness "0";cl_crosshairusealpha "1";cl_dynamiccrosshair "0"
+
+# For 1280x960 STRETCHED resolution
+
+# CS1.6 LARGE CROSSHAIR (without -stretchaspect)
+# cl_crosshairalpha "999";cl_crosshaircolor "5";cl_crosshaircolor_b "50";cl_crosshaircolor_g "250";cl_crosshaircolor_r "50";cl_crosshairdot "0";cl_crosshairsize "4.5";cl_crosshairspreadscale "1";cl_crosshairthickness "0";cl_crosshairusealpha "1";cl_dynamiccrosshair "0"
+
+# For 800x600 / 1024x768 BLACK BAR resolutions 
+
+# CS1.6 LARGE CROSSHAIR (without -stretchaspect)
+# cl_crosshairalpha "999";cl_crosshaircolor "5";cl_crosshaircolor_b "50";cl_crosshaircolor_g "250";cl_crosshaircolor_r "50";cl_crosshairdot "0";cl_crosshairsize "5";cl_crosshairspreadscale "0.8";cl_crosshairthickness "0";cl_crosshairusealpha "1";cl_dynamiccrosshair "0"
