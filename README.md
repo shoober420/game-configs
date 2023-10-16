@@ -9,6 +9,7 @@ Video game configuration files
 * Half-Life
 * Half-Life 2
 * Hexen II
+* Left 4 Dead 2
 * mpv
 * Quake
 * Quake 2
