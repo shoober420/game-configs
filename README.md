@@ -12,5 +12,6 @@ Video game configuration files
 * Quake
 * Quake 2
 * Quake 3
+* Team Fortress Classic
 * Unreal 98
 * Unreal Tournament 99
