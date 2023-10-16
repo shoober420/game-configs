@@ -6,6 +6,7 @@ Video game configuration files
 * Counter-Strike 2
 * Deus Ex
 * Doom
+* Half-Life 2
 * Hexen II
 * mpv
 * Quake
