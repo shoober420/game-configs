@@ -4,6 +4,9 @@ Chocolate Doom:     Windows (%USERPROFILE%\Downloads\chocolate-doom)
 Counter-Strike 1.6:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike)
                         Linux (~/.steam/root/steamapps/common/Half-Life\cstrike)
 
+Counter-Stike: Source:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Half-Life\Counter-Strike Source\cstrike\cfg)
+                           Linux (~/.steam/root/steamapps/common/Counter-Strike Source/cstrike/cfg)
+
 Counter-Strike 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\cfg)
                       Linux (~/.steam/root/steamapps/common/Counter-Strike Global Offensive/game/cfg)
 
