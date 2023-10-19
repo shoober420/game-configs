@@ -25,7 +25,9 @@ Re-Size BAR Support: Enable
 Above 4G Decoding: Enable
 Above 4GB MMIO BIOS Assignment: Enable
 Network Stack: Disabled
-
+CPU PCIe Link Speed: Gen5
+PCH PCIe Link Speed: Gen4
+PCH PCIe X4 Link Speed: Gen4
 
 
 GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
