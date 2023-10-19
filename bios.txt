@@ -9,10 +9,9 @@ Intel Turbo Boost Technology: Enabled
 Intel Turbo Boost Max Technology 3.0: Enabled
 Intel VMX Virtualization Technology: Disabled
 
-DDR5 Auto Booster: Enabled
+Extreme Memory Profile(X.M.P.): XMP 1
 High Bandwidth: Enabled
 Low Latency: Enabled
-Extreme Memory Profile (XMP): Enabled
 System Memory Multiplier: DDR5-XXXX (match RAM mhz)
 
 Platform Power Management: Disabled
@@ -23,3 +22,8 @@ Above 4G Decoding: Enable
 Above 4GB MMIO BIOS Assignment: Enable
 Re-Size BAR Support: Enable
 Network Stack: Disabled
+
+
+
+GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
+                    Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores by 100MHz on all P-cores, 300MHz on E-cores) 
