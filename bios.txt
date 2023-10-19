@@ -21,9 +21,9 @@ Platform Power Management: Disabled
 S3 Save Mode: Disabled
 ErP: Disabled
 
+Re-Size BAR Support: Enable
 Above 4G Decoding: Enable
 Above 4GB MMIO BIOS Assignment: Enable
-Re-Size BAR Support: Enable
 Network Stack: Disabled
 
 
@@ -31,6 +31,7 @@ Network Stack: Disabled
 GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
                     Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores by 100MHz on all P-cores, 300MHz on E-cores)
 
+Gigabyte Utilities Downloader Configuration - Gigabyte Utilities Downloader: Disabled
 
 
 NEVER disable E-cores
