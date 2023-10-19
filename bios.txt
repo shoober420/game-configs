@@ -8,6 +8,7 @@ Race to Halt: Disabled
 Energy Efficient Turbo: Disabled
 Intel Turbo Boost Technology: Enabled
 Intel Turbo Boost Max Technology 3.0: Enabled
+Enhanced TVB: Enabled
 Intel (VMX) Virtualization Technology: Disabled
 Intel(R) Dynamic Tuning Technology: Disabled
 CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
