@@ -1,5 +1,5 @@
-Don't disable E-Cores
-
+CPU Upgrade: Max Performance Profile
+Enhanced Multi-Core Performance: Enabled
 Hyper-Threading Technology: Disabled
 Intel Speed Shift Technology: Disabled
 CPU EIST Function: Disabled
@@ -7,7 +7,10 @@ Race to Halt: Disabled
 Energy Efficient Turbo: Disabled
 Intel Turbo Boost Technology: Enabled
 Intel Turbo Boost Max Technology 3.0: Enabled
-Intel VMX Virtualization Technology: Disabled
+Intel (VMX) Virtualization Technology: Disabled
+Intel(R) Dynamic Tuning Technology: Disabled
+CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
+C-States Control: Disabled
 
 Extreme Memory Profile(X.M.P.): XMP 1
 High Bandwidth: Enabled
@@ -26,4 +29,8 @@ Network Stack: Disabled
 
 
 GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
-                    Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores by 100MHz on all P-cores, 300MHz on E-cores) 
+                    Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores by 100MHz on all P-cores, 300MHz on E-cores)
+
+
+
+NEVER disable E-cores
