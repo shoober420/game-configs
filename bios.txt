@@ -3,6 +3,7 @@ Enhanced Multi-Core Performance: Enabled
 CPU Over Temperature Protection: 100°C (depends on CPU)
 Hyper-Threading Technology: Disabled
 Intel Speed Shift Technology: Disabled
+Ring to Core offset (Down Bin): Disabled
 CPU EIST Function: Disabled
 Race to Halt: Disabled
 Energy Efficient Turbo: Disabled
