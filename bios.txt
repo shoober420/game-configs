@@ -10,6 +10,7 @@ Race to Halt: Disabled
 Energy Efficient Turbo: Disabled
 Intel Turbo Boost Technology: Enabled
 Enhanced TVB: Enabled
+Voltage Reduction Initiated TVB: Enabled
 IA CEP (Current Excursion Protection): Disabled
 GT CEP (Current Excursion Protection): Disabled
 Legacy Game Compatibility Mode: Disabled
