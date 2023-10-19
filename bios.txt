@@ -13,6 +13,7 @@ IA CEP (Current Excursion Protection): Disabled
 GT CEP (Current Excursion Protection): Disabled
 Legacy Game Compatibility Mode: Disabled
 Intel (VMX) Virtualization Technology: Disabled
+Under Voltage Protection: Disabled
 Intel(R) Dynamic Tuning Technology: Disabled
 CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
 C-States Control: Disabled
