@@ -1,5 +1,6 @@
 CPU Upgrade: Max Performance Profile
 Enhanced Multi-Core Performance: Enabled
+CPU Over Temperature Protection: 100°C (depends on CPU)
 Hyper-Threading Technology: Disabled
 Intel Speed Shift Technology: Disabled
 CPU EIST Function: Disabled
