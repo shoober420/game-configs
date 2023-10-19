@@ -11,6 +11,7 @@ Intel Turbo Boost Max Technology 3.0: Enabled
 Enhanced TVB: Enabled
 IA CEP (Current Excursion Protection): Disabled
 GT CEP (Current Excursion Protection): Disabled
+Legacy Game Compatibility Mode: Disabled
 Intel (VMX) Virtualization Technology: Disabled
 Intel(R) Dynamic Tuning Technology: Disabled
 CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
