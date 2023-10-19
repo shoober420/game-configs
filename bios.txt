@@ -24,7 +24,7 @@ Fll OC Mode: Extreme
 AVX Settings: User Defined
 AVX: Enabled
 AVX Offset: 0
-AVX Optimum: Disabled
+AVX Optimum: Enabled
 
 Extreme Memory Profile(X.M.P.): XMP 1
 High Bandwidth: Enabled
@@ -32,7 +32,7 @@ Low Latency: Enabled
 System Memory Multiplier: DDR5-XXXX (match RAM mhz)
 
 Vcore Voltage Mode: Adaptive Vcore
-VF Offset Mode: Selection
+VF Offset Mode: Legacy (Selection causes instability)
 Internal CPU Vcore Offset: Auto (negative values cause stuttering)
 CPU Internal AC/DC Load line: Auto (Extreme causes overheating)
 CPU Vcore Loadline Calibration: Auto (UltraExtreme causes overheating)
