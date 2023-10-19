@@ -28,7 +28,7 @@ Network Stack: Disabled
 CPU PCIe Link Speed: Gen5
 PCH PCIe Link Speed: Gen4
 PCH PCIe X4 Link Speed: Gen4
-
+VT-d: Disabled
 
 GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
                     Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores by 100MHz on all P-cores, 300MHz on E-cores)
