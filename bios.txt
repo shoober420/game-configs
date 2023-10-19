@@ -26,6 +26,8 @@ High Bandwidth: Enabled
 Low Latency: Enabled
 System Memory Multiplier: DDR5-XXXX (match RAM mhz)
 
+Vcore Voltage Mode: Adaptive Vcore
+
 Platform Power Management: Disabled
 S3 Save Mode: Disabled
 ErP: Disabled
