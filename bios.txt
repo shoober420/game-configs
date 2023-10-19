@@ -27,6 +27,7 @@ Low Latency: Enabled
 System Memory Multiplier: DDR5-XXXX (match RAM mhz)
 
 Vcore Voltage Mode: Adaptive Vcore
+Internal CPU Vcore Offset: -0.075V
 CPU Vcore Loadline Calibration: Turbo
 
 Platform Power Management: Disabled
