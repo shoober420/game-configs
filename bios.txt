@@ -28,7 +28,7 @@ System Memory Multiplier: DDR5-XXXX (match RAM mhz)
 
 Vcore Voltage Mode: Adaptive Vcore
 Internal CPU Vcore Offset: -0.075V
-CPU Vcore Loadline Calibration: Turbo
+CPU Vcore Loadline Calibration: UltraExtreme
 
 Platform Power Management: Disabled
 S3 Save Mode: Disabled
