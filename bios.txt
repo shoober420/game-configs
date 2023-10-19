@@ -11,6 +11,7 @@ Intel (VMX) Virtualization Technology: Disabled
 Intel(R) Dynamic Tuning Technology: Disabled
 CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
 C-States Control: Disabled
+Fll OC Mode: Extreme
 
 Extreme Memory Profile(X.M.P.): XMP 1
 High Bandwidth: Enabled
