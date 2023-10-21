@@ -32,6 +32,9 @@ Low Latency: Enabled
 System Memory Multiplier: DDR5-XXXX (match RAM mhz)
 Memory Ref Clock: 133
 SA GV: Disabled (power saving option)
+Dynamic Memory Boost: Disabled
+Realtime Memory Frequency: Disabled
+Realtime Memory Timing: Disabled
 Fine Granularity Refresh: Enabled (improves performance)
 Memory Enhancement Settings: Enhanced Performance
 Memory Timing Mode: Fixed
