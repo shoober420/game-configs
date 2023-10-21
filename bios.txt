@@ -40,9 +40,10 @@ Memory Enhancement Settings: Enhanced Performance
 Memory Timing Mode: Fixed
 Memory Channel Detection Message: Enabled
 
-Vcore Voltage Mode: Adaptive Vcore
+Vcore Voltage Mode: Fixed Vcore
+CPU Vcore: 1.450V (value is recommended Vcore for CPU)
 VF Offset Mode: Legacy (Selection causes instability)
-Internal CPU Vcore Offset: -0.075 (negative values MIGHT cause stuttering)
+Internal CPU Vcore Offset: +0.000V
 CPU Internal AC/DC Load line: Auto (Extreme causes overheating)
 CPU Vcore Loadline Calibration: Auto (UltraExtreme causes overheating)
 
