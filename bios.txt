@@ -29,6 +29,9 @@ Turbo Ratio (X P-Core Active): 58 (5.80 GHz / depends on CPU)
 Turbo E-Core Ratio X: 46 (4.60GHz / depends on CPU)
 CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
 C-States Control: Disabled
+Turbo Per Core Limit Control: Manual
+Turbo P-Core X Ratio Limit: 58 (5.80GHz / depends on CPU)
+Turbo E-Core X Ratio Limit: 46 (4.60GHz / depends on CPU)
 
 Extreme Memory Profile(X.M.P.): XMP 1
 High Bandwidth: Enabled
