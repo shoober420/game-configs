@@ -33,7 +33,7 @@ System Memory Multiplier: DDR5-XXXX (match RAM mhz)
 
 Vcore Voltage Mode: Adaptive Vcore
 VF Offset Mode: Legacy (Selection causes instability)
-Internal CPU Vcore Offset: Auto (negative values cause stuttering)
+Internal CPU Vcore Offset: -0.075 (negative values MIGHT cause stuttering)
 CPU Internal AC/DC Load line: Auto (Extreme causes overheating)
 CPU Vcore Loadline Calibration: Auto (UltraExtreme causes overheating)
 
