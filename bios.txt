@@ -13,18 +13,22 @@ Enhanced TVB: Enabled
 Voltage Reduction Initiated TVB: Disabled
 IA CEP (Current Excursion Protection): Disabled
 GT CEP (Current Excursion Protection): Disabled
+Fll OC Mode: Extreme
 Legacy Game Compatibility Mode: Disabled
 Intel (VMX) Virtualization Technology: Disabled
 Under Voltage Protection: Disabled
 Intel(R) Dynamic Tuning Technology: Disabled
-CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
-C-States Control: Disabled
-Fll OC Mode: Extreme
 
 AVX Settings: User Defined
 AVX: Enabled
 AVX Offset: 0 (lowers clock speeds when NOT 0)
 AVX Optimum: Disabled (increase CPU voltage on AVX workloads)
+
+
+Turbo Ratio (X P-Core Active): 58 (5.80 GHz / depends on CPU)
+Turbo E-Core Ratio X: 46 (4.60GHz / depends on CPU)
+CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
+C-States Control: Disabled
 
 Extreme Memory Profile(X.M.P.): XMP 1
 High Bandwidth: Enabled
