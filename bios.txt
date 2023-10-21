@@ -4,7 +4,7 @@ CPU Over Temperature Protection: 100°C (depends on CPU)
 Hyper-Threading Technology: Disabled
 Intel Speed Shift Technology: Disabled
 CPU Thermal Monitor: Disabled
-Ring to Core offset (Down Bin): Disabled
+Ring to Core offset (Down Bin): Disabled (power savings option)
 CPU EIST Function: Disabled
 Race to Halt: Disabled
 Energy Efficient Turbo: Disabled
@@ -23,13 +23,19 @@ Fll OC Mode: Extreme
 
 AVX Settings: User Defined
 AVX: Enabled
-AVX Offset: 0
+AVX Offset: 0 (lowers clock speeds when NOT 0)
 AVX Optimum: Disabled (increase CPU voltage on AVX workloads)
 
 Extreme Memory Profile(X.M.P.): XMP 1
 High Bandwidth: Enabled
 Low Latency: Enabled
 System Memory Multiplier: DDR5-XXXX (match RAM mhz)
+Memory Ref Clock: 133
+SA GV: Disabled (power saving option)
+Fine Granularity Refresh: Enabled (improves performance)
+Memory Enhancement Settings: Enhanced Performance
+Memory Timing Mode: Fixed
+Memory Channel Detection Message: Enabled
 
 Vcore Voltage Mode: Adaptive Vcore
 VF Offset Mode: Legacy (Selection causes instability)
