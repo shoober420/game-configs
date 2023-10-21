@@ -24,7 +24,7 @@ Fll OC Mode: Extreme
 AVX Settings: User Defined
 AVX: Enabled
 AVX Offset: 0
-AVX Optimum: Enabled
+AVX Optimum: Disabled (increase CPU voltage on AVX workloads)
 
 Extreme Memory Profile(X.M.P.): XMP 1
 High Bandwidth: Enabled
