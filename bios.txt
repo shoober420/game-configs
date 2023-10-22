@@ -13,6 +13,7 @@ CPU EIST Function: Disabled
 Race to Halt: Disabled
 Energy Efficient Turbo: Disabled
 Intel Turbo Boost Technology: Enabled
+Frequency TVB: Disabled
 Enhanced TVB: Enabled
 Voltage Reduction Initiated TVB: Disabled
 IA CEP (Current Excursion Protection): Disabled
