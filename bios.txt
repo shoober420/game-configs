@@ -73,5 +73,12 @@ VT-d: Disabled
 
 Gigabyte Utilities Downloader Configuration - Gigabyte Utilities Downloader: Disabled
 
+Smart Fan 6 [F6]:
+Speed Control: Full Speed (keeps water pump running at 100%)
+Fan Control Use Temperature Input: CPU
+Control Mode: PVM (keeps constant 12V for AIO)
+Stop: Disabled
+Mode: Slope
+
 
 NEVER disable E-cores
