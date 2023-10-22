@@ -4,6 +4,8 @@ GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
 
 CPU Upgrade: Max Performance Profile
 Enhanced Multi-Core Performance: Enabled
+Max Ring Ratio: Auto
+Min Ring Ratio: Auto
 CPU Over Temperature Protection: 100°C (depends on CPU)
 Hyper-Threading Technology: Disabled
 Intel Speed Shift Technology: Disabled
@@ -30,12 +32,12 @@ AVX Offset: 0 (lowers clock speeds when NOT 0)
 AVX Optimum: Disabled (increase CPU voltage on AVX workloads)
 
 
-Turbo Ratio (X P-Core Active): 55 (5.50 GHz / Auto defaults to max Turbo clock speeds)
+Turbo Ratio (X P-Core Active): 56 (5.60 GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core Ratio X: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
 CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
 C-States Control: Disabled
 Turbo Per Core Limit Control: Manual
-Turbo P-Core X Ratio Limit: 55 (5.50GHz / Auto defaults to max Turbo clock speeds)
+Turbo P-Core X Ratio Limit: 56 (5.60GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core X Ratio Limit: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
 
 Extreme Memory Profile(X.M.P.): XMP 1
@@ -53,11 +55,11 @@ Memory Timing Mode: Fixed
 Memory Channel Detection Message: Enabled
 
 Vcore Voltage Mode: Adaptive Vcore
-VF Offset Mode: Legacy
+VF Offset Mode: Selection
 Internal CPU Vcore: 1.450V (depends on CPU)
-Internal CPU Vcore Offset: -0.075V
+VF Point X Offset: Auto
 CPU Internal AC/DC Load line: Performance (Extreme causes overheating and overvoltage)
-CPU Vcore Loadline Calibration: Turbo (UltraExtreme causes overheating and overvoltage)
+CPU Vcore Loadline Calibration: UltraExtreme
 
 Platform Power Management: Disabled
 S3 Save Mode: Disabled
