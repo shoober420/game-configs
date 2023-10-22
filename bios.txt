@@ -30,7 +30,7 @@ AVX Offset: 0 (lowers clock speeds when NOT 0)
 AVX Optimum: Disabled (increase CPU voltage on AVX workloads)
 
 
-Turbo Ratio (X P-Core Active): 58 (5.80 GHz / Auto defaults to max Turbo clock speeds)
+Turbo Ratio (X P-Core Active): 57 (5.70 GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core Ratio X: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
 CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
 C-States Control: Disabled
