@@ -54,7 +54,7 @@ Memory Enhancement Settings: Enhanced Performance
 Memory Timing Mode: Fixed
 Memory Channel Detection Message: Enabled
 
-Vcore Voltage Mode: Fixed Vcore
+Vcore Voltage Mode: Fixed Vcore (Adaptive Vcore runs hotter than Fixed Vcore)
 VF Offset Mode: Selection
 CPU Vcore: 1.315V (lower voltage significantly reduces temps)
 Internal CPU Vcore: 1.450V (lowers clock speeds if set too low)
