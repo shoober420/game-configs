@@ -1,3 +1,7 @@
+
+GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
+                    Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores by 100MHz on all P-cores, 300MHz on E-cores)
+
 CPU Upgrade: Max Performance Profile
 Enhanced Multi-Core Performance: Enabled
 CPU Over Temperature Protection: 100°C (depends on CPU)
@@ -47,9 +51,8 @@ Memory Enhancement Settings: Enhanced Performance
 Memory Timing Mode: Fixed
 Memory Channel Detection Message: Enabled
 
-Vcore Voltage Mode: Fixed Vcore
-CPU Vcore: 1.450V (value is recommended Vcore for CPU)
-VF Offset Mode: Legacy (Selection causes instability)
+Vcore Voltage Mode: Adaptive Vcore
+VF Offset Mode: Selection (everything Auto)
 Internal CPU Vcore Offset: +0.000V
 CPU Internal AC/DC Load line: Auto (Extreme causes overheating)
 CPU Vcore Loadline Calibration: Auto (UltraExtreme causes overheating)
@@ -66,9 +69,6 @@ CPU PCIe Link Speed: Gen5
 PCH PCIe Link Speed: Gen4
 PCH PCIe X4 Link Speed: Gen4
 VT-d: Disabled
-
-GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
-                    Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores by 100MHz on all P-cores, 300MHz on E-cores)
 
 Gigabyte Utilities Downloader Configuration - Gigabyte Utilities Downloader: Disabled
 
