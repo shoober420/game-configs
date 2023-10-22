@@ -32,13 +32,13 @@ AVX Offset: 0 (lowers clock speeds when NOT 0)
 AVX Optimum: Disabled (increase CPU voltage on AVX workloads)
 
 
-Turbo Ratio (X P-Core Active): 56 (5.60 GHz / Auto defaults to max Turbo clock speeds)
-Turbo E-Core Ratio X: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
+Turbo Ratio (X P-Core Active): 57 (5.70 GHz / Auto defaults to max Turbo clock speeds)
+Turbo E-Core Ratio X: 45 (4.50GHz / Auto defaults to max Turbo clock speeds)
 CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
 C-States Control: Disabled
 Turbo Per Core Limit Control: Manual
-Turbo P-Core X Ratio Limit: 56 (5.60GHz / Auto defaults to max Turbo clock speeds)
-Turbo E-Core X Ratio Limit: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
+Turbo P-Core X Ratio Limit: 57 (5.70GHz / Auto defaults to max Turbo clock speeds)
+Turbo E-Core X Ratio Limit: 45 (4.50GHz / Auto defaults to max Turbo clock speeds)
 
 Extreme Memory Profile(X.M.P.): XMP 1
 High Bandwidth: Enabled
@@ -54,11 +54,12 @@ Memory Enhancement Settings: Enhanced Performance
 Memory Timing Mode: Fixed
 Memory Channel Detection Message: Enabled
 
-Vcore Voltage Mode: Adaptive Vcore
+Vcore Voltage Mode: Fixed Vcore
 VF Offset Mode: Selection
+CPU Vcore: 1.450V
 Internal CPU Vcore: 1.450V (depends on CPU)
 VF Point X Offset: Auto
-CPU Internal AC/DC Load line: Performance (Extreme causes overheating and overvoltage)
+CPU Internal AC/DC Load line: Performance (Turbo and Extreme cause overheating and overvoltage)
 CPU Vcore Loadline Calibration: UltraExtreme
 
 Platform Power Management: Disabled
