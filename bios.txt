@@ -16,7 +16,7 @@ Race to Halt: Disabled
 Energy Efficient Turbo: Disabled
 Intel Turbo Boost Technology: Enabled
 Frequency TVB: Disabled
-Enhanced TVB: Enabled
+Enhanced TVB (Thermal Velocity Boost): Disabled (lowers clock speeds under heavy load)
 Voltage Reduction Initiated TVB: Disabled
 IA CEP (Current Excursion Protection): Disabled
 GT CEP (Current Excursion Protection): Disabled
