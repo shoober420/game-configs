@@ -56,8 +56,8 @@ Vcore Voltage Mode: Adaptive Vcore
 VF Offset Mode: Legacy
 Internal CPU Vcore: 1.450V (depends on CPU)
 Internal CPU Vcore Offset: -0.075V
-CPU Internal AC/DC Load line: Extreme
-CPU Vcore Loadline Calibration: UltraExtreme
+CPU Internal AC/DC Load line: Performance (Extreme causes overheating and overvoltage)
+CPU Vcore Loadline Calibration: Turbo (UltraExtreme causes overheating and overvoltage)
 
 Platform Power Management: Disabled
 S3 Save Mode: Disabled
