@@ -4,8 +4,8 @@ GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
 
 CPU Upgrade: Max Performance Profile
 Enhanced Multi-Core Performance: Enabled
-Max Ring Ratio: Auto
-Min Ring Ratio: Auto
+Max Ring Ratio: Auto (Try to match P-Core clock speeds)
+Min Ring Ratio: Auto (Try to match P-Core clock speeds)
 CPU Over Temperature Protection: 100°C (depends on CPU)
 Hyper-Threading Technology: Disabled
 Intel Speed Shift Technology: Disabled
