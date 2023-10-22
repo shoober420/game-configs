@@ -56,7 +56,7 @@ Memory Channel Detection Message: Enabled
 
 Vcore Voltage Mode: Fixed Vcore
 VF Offset Mode: Selection
-CPU Vcore: 1.275V (lower voltage significantly reduces temps)
+CPU Vcore: 1.315V (lower voltage significantly reduces temps)
 Internal CPU Vcore: 1.450V (lowers clock speeds if set too low)
 VF Point X Offset: Auto
 CPU Internal AC/DC Load line: Auto (Performance, Turbo, and Extreme cause overheating and overvoltage)
