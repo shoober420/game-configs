@@ -80,5 +80,6 @@ Control Mode: PVM (keeps constant 12V for AIO)
 Stop: Disabled
 Mode: Slope
 
+AIO Installation: Hoses down, Radiator Up (Water pump orientation with hoses pointing down, Radiator above water pump)
 
 NEVER disable E-cores
