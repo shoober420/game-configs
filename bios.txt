@@ -23,6 +23,8 @@ GT CEP (Current Excursion Protection): Disabled
 Fll OC Mode: Extreme
 Legacy Game Compatibility Mode: Disabled
 Intel (VMX) Virtualization Technology: Disabled
+Core VR Fast Vmode: Enabled
+Core Fast Vmode ICC Limit: Auto (0 preferred if allowed)
 Under Voltage Protection: Disabled
 Intel(R) Dynamic Tuning Technology: Disabled
 
