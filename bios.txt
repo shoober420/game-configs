@@ -63,7 +63,7 @@ Internal CPU Vcore: 1.450V (lowers clock speeds if set too low)
 Internal CPU Vcore Offset: -0.075V
 VF Point X Offset: Auto
 CPU Internal AC/DC Load line: Auto (Performance, Turbo, and Extreme cause overheating and overvoltage)
-CPU Vcore Loadline Calibration: Medium (Low preferred, but higher values may be needed for stable OC / Extreme and UltraExtreme will cause overheating and overvoltage)
+CPU Vcore Loadline Calibration: UltraExtreme (Low preferred, but higher values may be needed for stable OC)
 
 Platform Power Management: Disabled
 S3 Save Mode: Disabled
