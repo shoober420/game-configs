@@ -91,5 +91,5 @@ Mode: Slope
 
 AIO Installation: Hoses down, Radiator Up (Water pump orientation with hoses pointing down, Radiator above water pump)
 
-NEVER enable E-cores
+NEVER enable E-cores (fixes stuttering)
 NEVER overclock E-cores, leave at max turbo clock speeds
