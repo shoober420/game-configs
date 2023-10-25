@@ -4,8 +4,8 @@ GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
 
 CPU Upgrade: Max Performance Profile
 Enhanced Multi-Core Performance: Enabled
-Max Ring Ratio: 50 (5.00 GHz / Try to match P-Core clock speeds)
-Min Ring Ratio: 50 (5.00 GHz / Try to match P-Core clock speeds)
+Max Ring Ratio: 45 (4.50 GHz / Try to match P-Core clock speeds)
+Min Ring Ratio: 45 (4.50 GHz / Try to match P-Core clock speeds)
 CPU Over Temperature Protection: 100°C (depends on CPU)
 Hyper-Threading Technology: Disabled
 Intel Speed Shift Technology: Disabled
@@ -63,7 +63,7 @@ Internal CPU Vcore: 1.450V (lowers clock speeds if set too low)
 Internal CPU Vcore Offset: -0.075V
 VF Point X Offset: Auto
 CPU Internal AC/DC Load line: Auto (Performance, Turbo, and Extreme cause overheating and overvoltage)
-CPU Vcore Loadline Calibration: UltraExtreme (Low preferred, but higher values may be needed for stable OC)
+CPU Vcore Loadline Calibration: Turbo (Low preferred, but higher values may be needed for stable OC / Extreme and UltraExtreme cause high temps and high volts)
 
 Platform Power Management: Disabled
 S3 Save Mode: Disabled
