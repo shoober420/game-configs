@@ -1,4 +1,3 @@
-
 GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
                     Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores by 100MHz on all P-cores, 200MHz on E-cores)
 
@@ -37,8 +36,8 @@ Turbo Ratio (X P-Core Active): 58 (5.80 GHz / Auto defaults to max Turbo clock s
 Turbo E-Core Ratio X: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core Range X: 16
 CPU Cores Enabling Mode: Selectable Mode
-Enable all P-cores
-Disabled E-cores
+Active P-Core X: Enabled
+Active E-Core X: Disabled
 C-States Control: Disabled
 Turbo Per Core Limit Control: Manual
 Turbo P-Core X Ratio Limit: 58 (5.80GHz / Auto defaults to max Turbo clock speeds)
