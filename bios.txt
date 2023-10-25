@@ -36,7 +36,9 @@ AVX Optimum: Disabled (increase CPU voltage on AVX workloads)
 Turbo Ratio (X P-Core Active): 58 (5.80 GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core Ratio X: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core Range X: 16
-CPU Cores Enabling Mode: Selectable Mode (Enable all P-cores and E-cores)
+CPU Cores Enabling Mode: Selectable Mode
+Enable all P-cores
+Disabled E-cores
 C-States Control: Disabled
 Turbo Per Core Limit Control: Manual
 Turbo P-Core X Ratio Limit: 58 (5.80GHz / Auto defaults to max Turbo clock speeds)
@@ -89,5 +91,5 @@ Mode: Slope
 
 AIO Installation: Hoses down, Radiator Up (Water pump orientation with hoses pointing down, Radiator above water pump)
 
-NEVER disable E-cores
+NEVER enable E-cores
 NEVER overclock E-cores, leave at max turbo clock speeds
