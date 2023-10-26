@@ -70,8 +70,8 @@ CPU Vcore Loadline Calibration (LLC): Low (Low preferred, but higher values may 
 
 Internal VR Control:
 IA VR Config Enable: Enabled
-IA AC Loadline: 1
-IA DC Loadline: 1
+IA AC Loadline: 1 (0.01 mOHm)
+IA DC Loadline: 1 (0.01 mOHm)
 
 Platform Power Management: Disabled
 S3 Save Mode: Disabled
