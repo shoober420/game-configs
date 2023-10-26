@@ -68,7 +68,7 @@ CPU Vcore Loadline Calibration (LLC): Low (Low preferred, but higher values may 
 
 High LLC values Turbo+ / LLC6+ cause millisecond high voltage spikes that monitoring programs don't pick up that exceed Fixed Vcore value, DONT USE
 
-Loadline Calibration (LLC):
+Loadline Calibration (LLC): Gigabyte / ASUS
 UltraExtreme = LLC8
 Extreme = LLC7
 Turbo = LLC6
