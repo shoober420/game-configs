@@ -66,6 +66,16 @@ VF Point X Offset: Auto
 CPU Internal AC/DC Load line: Auto (Performance, Turbo, and Extreme cause overheating and overvoltage, along with CPU degradation)
 CPU Vcore Loadline Calibration (LLC): Low (Low preferred, but higher values may be needed for stable OC / NEVER use Turbo, Extreme, or UltraExtreme LLC, causes high temps and high volts, along with CPU degradation)
 
+Loadline Calibration (LLC):
+UltraExtreme = LLC8
+Extreme = LLC7
+Turbo = LLC6
+High = LLC5
+Medium = LLC4
+Low = LLC3
+Normal = LLC2
+Standard = LLC1
+
 Platform Power Management: Disabled
 S3 Save Mode: Disabled
 ErP: Disabled
