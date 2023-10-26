@@ -19,7 +19,7 @@ Enhanced TVB (Thermal Velocity Boost): Disabled (lowers clock speeds under heavy
 Voltage Reduction Initiated TVB: Disabled
 IA CEP (Current Excursion Protection): Disabled
 GT CEP (Current Excursion Protection): Disabled
-Fll OC Mode: Extreme
+Fll OC Mode: Auto
 Legacy Game Compatibility Mode: Disabled
 Intel (VMX) Virtualization Technology: Disabled
 Core VR Fast Vmode: Enabled
