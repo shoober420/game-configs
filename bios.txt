@@ -11,7 +11,7 @@ Intel Speed Shift Technology: Disabled
 CPU Thermal Monitor: Disabled
 Ring to Core offset (Down Bin): Disabled (power savings option)
 CPU EIST Function: Disabled
-Race to Halt: Disabled
+Race to Halt: Disabled (power saving option)
 Energy Efficient Turbo: Disabled
 Intel Turbo Boost Technology: Enabled
 Frequency TVB: Disabled
@@ -60,7 +60,7 @@ Memory Channel Detection Message: Enabled
 Vcore Voltage Mode: Adaptive Vcore
 VF Offset Mode: Selection
 CPU Vcore: 1.450V (lower voltage significantly reduces temps)
-Internal CPU Vcore: 1.375V (lowers clock speeds if set too low)
+Internal CPU Vcore: 1.375V
 Internal CPU Vcore Offset: -0.075V
 VF Point 6-10 Offset (Advanced Voltage Offset): -0.050V
 
@@ -77,7 +77,7 @@ Platform Power Management: Disabled
 S3 Save Mode: Disabled
 ErP: Disabled
 
-Re-Size BAR Support: Enable
+Re-Size BAR Support: Enable (improves performance)
 Above 4G Decoding: Enable
 Above 4GB MMIO BIOS Assignment: Enable
 Network Stack: Disabled
