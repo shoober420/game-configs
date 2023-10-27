@@ -57,6 +57,8 @@ Extreme Memory Profile(X.M.P.): XMP 1
 High Bandwidth: Enabled
 Low Latency: Enabled
 System Memory Multiplier: DDR5-XXXX (match RAM mhz)
+
+Advanced Memory Settings:
 Memory Ref Clock: 133
 SA GV: Disabled (power saving option)
 Dynamic Memory Boost: Disabled
@@ -74,6 +76,7 @@ Internal CPU Vcore: 1.375V
 Internal CPU Vcore Offset: -0.075V
 VF Point 6-10 Offset (Advanced Voltage Offset): -0.050V
 
+Advanced Voltage Settings > CPU/VRM Settings:
 CPU Internal AC/DC Load line: Auto (Performance, Turbo, and Extreme cause overheating and overvoltage, along with CPU degradation)
 
 CPU Vcore Loadline Calibration (LLC): Low (Low preferred, but higher values may be needed for stable OC / NEVER use Turbo, Extreme, or UltraExtreme LLC, causes high temps and high volts, along with CPU degradation)
