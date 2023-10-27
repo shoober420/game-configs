@@ -114,6 +114,8 @@ Network Stack: Disabled
 SATA Configuration:
 Aggressive LPM Support: Disabled
 
+Miscellaneous:
+3DMark01 Enhancement: Disabled
 CPU PCIe Link Speed: Gen5
 PCH PCIe Link Speed: Gen4
 PCH PCIe X4 Link Speed: Gen4
@@ -127,6 +129,8 @@ Fan Control Use Temperature Input: CPU
 Control Mode: PVM (keeps constant 12V for AIO)
 Stop: Disabled
 Mode: Slope
+
+
 
 High LLC values Turbo+ / LLC6+ cause microsecond high voltage spikes that monitoring programs don't pick up that exceed Fixed Vcore value, DONT USE
 
