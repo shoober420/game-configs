@@ -5,7 +5,7 @@ GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
                     Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores by 100MHz on all P-cores, 200MHz on E-cores)
 
 CPU Upgrade: Max Performance Profile
-Enhanced Multi-Core Performance: Enabled
+Enhanced Multi-Core Performance: Disabled (not needed for manual OC, adds voltage and heat)
 Max Ring Ratio: 50 (5.00 GHz / Try to match P-Core clock speeds)
 Min Ring Ratio: 50 (5.00 GHz / Try to match P-Core clock speeds)
 
