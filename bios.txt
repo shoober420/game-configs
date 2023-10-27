@@ -5,6 +5,8 @@ CPU Upgrade: Max Performance Profile
 Enhanced Multi-Core Performance: Enabled
 Max Ring Ratio: 50 (5.00 GHz / Try to match P-Core clock speeds)
 Min Ring Ratio: 50 (5.00 GHz / Try to match P-Core clock speeds)
+
+Advanced CPU Settings:
 CPU Over Temperature Protection: 100°C (depends on CPU)
 Hyper-Threading Technology: Disabled
 Intel Speed Shift Technology: Disabled
@@ -33,14 +35,18 @@ AVX Offset: 0 (lowers clock speeds when NOT 0)
 AVX Optimum: Disabled (increase CPU voltage on AVX workloads)
 AVX Voltage Guardband Scale Factor: 1 (0 preferred)
 
+Active Turbo Ratios: Manual
 Turbo Ratio (X P-Core Active): 58 (5.80 GHz / Auto defaults to max Turbo clock speeds)
+
 Turbo E-Core Ratio X: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core Range X: 16
 
 CPU Cores Enabling Mode: Selectable Mode
 Active P-Core X: Enabled
 Active E-Core X: Disabled
+
 C-States Control: Disabled
+
 Turbo Per Core Limit Control: Manual
 Turbo P-Core X Ratio Limit: 58 (5.80GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core X Ratio Limit: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
