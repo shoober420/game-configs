@@ -103,13 +103,23 @@ IO Ports:
 Above 4G Decoding: Enabled
 Above 4GB MMIO BIOS assignment: Enabled
 Re-Size BAR Support: Enabled (improves performance)
+IOAPIC 24-119 Entries: Enabled (improves performance)
+
+Gigabyte Utilities Downloader Configuration:
+Gigabyte Utilities Downloader: Disabled (uninstalls bloatware)
+
+Network Stack Configuration:
 Network Stack: Disabled
+
+SATA Configuration:
+Aggressive LPM Support: Disabled
+
 CPU PCIe Link Speed: Gen5
 PCH PCIe Link Speed: Gen4
 PCH PCIe X4 Link Speed: Gen4
 VT-d: Disabled
 
-Gigabyte Utilities Downloader Configuration - Gigabyte Utilities Downloader: Disabled
+
 
 Smart Fan 6 [F6]:
 Speed Control: Full Speed (keeps water pump running at 100%)
