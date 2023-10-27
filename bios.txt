@@ -100,9 +100,9 @@ S3 Save Mode: Disabled
 ErP: Disabled
 
 IO Ports:
-Re-Size BAR Support: Enable (improves performance)
-Above 4G Decoding: Enable
-Above 4GB MMIO BIOS Assignment: Enable
+Above 4G Decoding: Enabled
+Above 4GB MMIO BIOS assignment: Enabled
+Re-Size BAR Support: Enabled (improves performance)
 Network Stack: Disabled
 CPU PCIe Link Speed: Gen5
 PCH PCIe Link Speed: Gen4
