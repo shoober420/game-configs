@@ -77,7 +77,7 @@ VF Offset Mode: Selection
 CPU Vcore: 1.450V (lower voltage significantly reduces temps)
 Internal CPU Vcore: 1.375V
 Internal CPU Vcore Offset: -0.075V
-VF Point 6-10 Offset (Advanced Voltage Offset): -0.050V
+VF Point 6-10 Offset (Advanced Voltage Offset): -0.100V
 
 Advanced Voltage Settings > CPU/VRM Settings:
 CPU Internal AC/DC Load line: Auto (Performance, Turbo, and Extreme cause overheating and overvoltage, along with CPU degradation)
