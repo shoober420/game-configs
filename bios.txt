@@ -47,6 +47,8 @@ Active E-Core X: Disabled
 
 C-States Control: Disabled
 
+Turbo Power Limits: Auto (Disabled preferred)
+
 Turbo Per Core Limit Control: Manual
 Turbo P-Core X Ratio Limit: 58 (5.80GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core X Ratio Limit: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
