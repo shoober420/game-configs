@@ -135,7 +135,7 @@ Mode: Slope
 
 
 
-Last V/F Point value is manual OC V/F Curve
+Last V/F Point value is manual OC V/F Curve for custom OC ratio
 
 High LLC values Turbo+ / LLC6+ cause microsecond high voltage spikes that monitoring programs don't pick up that exceed Fixed Vcore value, DONT USE
 
