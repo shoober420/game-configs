@@ -10,7 +10,7 @@ Counter-Strike 1.6:     Windows (C:\Program Files (x86)\Steam\steamapps\common\H
 Counter-Stike: Source:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Half-Life\Counter-Strike Source\cstrike\cfg)
                            Linux (~/.steam/root/steamapps/common/Counter-Strike Source/cstrike/cfg)
 
-Counter-Strike 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\cfg)
+Counter-Strike 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\core\cfg)
                       Linux (~/.steam/root/steamapps/common/Counter-Strike Global Offensive/game/cfg)
 
 Deus Ex:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Deus Ex/System)
