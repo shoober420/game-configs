@@ -104,6 +104,7 @@ S3 Save Mode: Disabled
 ErP: Disabled
 
 IO Ports:
+Audio Controller: Disabled
 Above 4G Decoding: Enabled
 Above 4GB MMIO BIOS assignment: Enabled
 Re-Size BAR Support: Enabled (improves performance)
