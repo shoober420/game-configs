@@ -61,7 +61,7 @@ WAN
 ---------------------------
 
 DNS Setting:
- - Select DNS server manually: Enabled
+ - Select DNS server manually: Disabled (breaks internet)
  - Primary DNS server: 1.1.1.1
 
 4G / 5G Auto Mobile Tethering: Disabled
@@ -92,9 +92,9 @@ Wireless
 WAN
 ---------------------------
 
- - Enable NAT: No
+ - Enable NAT: Yes (No breaks internet)
  - Enable DNS Rebind protection: Yes
- - Enable DNSSEC support: Yes
+ - Enable DNSSEC support: No (Yes breaks internet)
  - Validate unsigned DNSSEC replies: Yes
  - Prevent client auto DoH: No
  - DNS Privacy Protocol: DNS-over-TLS (DoT)
