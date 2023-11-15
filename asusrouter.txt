@@ -82,11 +82,21 @@ Advanced Settings
 ---------------------------
 
 ---------------------------
-Wireless
+Wireless / General
 ---------------------------
 
  - WiFi Agile Multiboard: Disabled (lags internet)
  - Target Wake Time: Disabled
+
+---------------------------
+Wireless / Professional
+---------------------------
+
+ - Band: 2.4 GHz / 5 GHz
+ - Roaming assistant: Disable
+ - Bluetooth Coexistence: Disable
+ - Enable IGMP Snooping: Disable
+ - AMPDU RTS: Disable (Aggregated MAC Protocol Data Unit, "Enable" lags internet)
 
 ---------------------------
 WAN
