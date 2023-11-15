@@ -104,3 +104,14 @@ WAN
 ---------------------------
 IPv6
 ---------------------------
+
+ - Connection type: Disable
+
+---------------------------
+Firewall
+---------------------------
+
+ - Enable Firewall: Yes
+ - Enable DoS protection: Yes
+ - Respond ICMP Echo (ping) Request from WAN: No
+ - Enable IPv4 inbound firewall rules: No
