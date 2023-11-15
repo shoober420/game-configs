@@ -149,3 +149,18 @@ Firewall
  - Enable DoS protection: Yes
  - Respond ICMP Echo (ping) Request from WAN: No
  - Enable IPv4 inbound firewall rules: No
+
+---------------------------
+Administration / System
+---------------------------
+
+ - WPS Button behavior: Turn LED On/OFF
+ - Enable Telnet: No
+ - Enable SSH: No
+
+---------------------------
+Administration / Firmware Upgrade
+---------------------------
+
+ - Auto Firmware Upgrade: On
+ - I would like to retrieve beta firmware.: CHECKMARK
