@@ -61,7 +61,7 @@ WAN
 ---------------------------
 
 DNS Setting:
- - Select DNS server manually: Disabled (breaks internet)
+ - Select DNS server manually: Enabled
  - Primary DNS server: 1.1.1.1
 
 4G / 5G Auto Mobile Tethering: Disabled
