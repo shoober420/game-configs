@@ -97,6 +97,17 @@ Wireless / Professional
  - Bluetooth Coexistence: Disable
  - Enable IGMP Snooping: Disable
  - AMPDU RTS: Disable (Aggregated MAC Protocol Data Unit, "Enable" lags internet)
+ - Enable TX Bursting: Enable (Frame Burst / Packet Burst)
+ - Enable WMM: Disable ("Enable" causes lag) (Wi-Fi Multimedia)
+ - Enable WMM No-Acknowledgement: Disable (Wi-Fi Multimedia)
+ - Enable WMM APSD: Disable (Wi-Fi Multimedia (WMM) Automatic Power Save Delivery)
+ - Optimize AMPDU aggregation: Disable (Aggregated MAC Protocol Data Unit, "Enable" lags internet)
+ - Modulation Scheme: Up to MCS 11 (NitroQAM/1024-QAM)
+ - Airtime fairness: Disable
+ - Multi-User MIMO: Enable (Multiple Input Multiple Output) (improves performance)
+ - OFDMA/802.11ax MU-MIMO: DL/UL OFDMA + MU-MIMO (Orthogonal Frequency-Division Multiple Access / Multi-User Multiple Input Multiple Output)
+ - Explicit Beamforming: Enable (improves performance)
+ - Universal Beamforming: Enable (improves performance)
 
 ---------------------------
 WAN
