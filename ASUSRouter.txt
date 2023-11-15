@@ -106,11 +106,12 @@ Wireless / Professional
  - Airtime fairness: Disable
  - Multi-User MIMO: Enable (Multiple Input Multiple Output) (improves performance)
  - OFDMA/802.11ax MU-MIMO: DL/UL OFDMA + MU-MIMO (Orthogonal Frequency-Division Multiple Access / Multi-User Multiple Input Multiple Output)
+ - 802.11ax/ac Beamforming: Enable (improves performance)
  - Explicit Beamforming: Enable (improves performance)
  - Universal Beamforming: Enable (improves performance)
 
 ---------------------------
-WAN
+WAN / Internet Connection
 ---------------------------
 
  - Enable NAT: Yes ("No" breaks internet)
@@ -121,6 +122,18 @@ WAN
  - DNS Privacy Protocol: None ("DNS-over-TLS (DoT)" breaks internet)
  - DNS-over-TLS Profile: Strict
  - Present servers: IPv4 / Cloudflare 1.1.1.1
+
+---------------------------
+WAN / NAT Passthrough
+---------------------------
+
+ - PPTP Passthrough: Disable
+ - L2TP Passthrough: Disable
+ - IPSec Passthrough: Disable
+ - RTSP Passthrough: Disable
+ - H.323 Passthrough: Disable
+ - SIP Passthrough: Disable
+ - PPPoE Relay: Disable
 
 ---------------------------
 IPv6
