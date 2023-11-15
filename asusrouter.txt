@@ -97,7 +97,7 @@ WAN
  - Enable DNSSEC support: No (Yes breaks internet)
  - Validate unsigned DNSSEC replies: Yes
  - Prevent client auto DoH: No
- - DNS Privacy Protocol: DNS-over-TLS (DoT)
+ - DNS Privacy Protocol: None (DNS-over-TLS (DoT) breaks internet)
  - DNS-over-TLS Profile: Strict
  - Present servers: IPv4 / Cloudflare 1.1.1.1
 
