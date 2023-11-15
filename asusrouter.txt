@@ -70,7 +70,7 @@ DNS Setting:
 System Settings
 ---------------------------
 
- - Remote Connection: Enabled (never Disable, breaks login)
+ - Remote Connection: Enabled (NEVER Disable, breaks login)
 
 
 
@@ -92,12 +92,12 @@ Wireless
 WAN
 ---------------------------
 
- - Enable NAT: Yes (No breaks internet)
+ - Enable NAT: Yes ("No" breaks internet)
  - Enable DNS Rebind protection: Yes
- - Enable DNSSEC support: No (Yes breaks internet)
+ - Enable DNSSEC support: No ("Yes" breaks internet)
  - Validate unsigned DNSSEC replies: Yes
  - Prevent client auto DoH: No
- - DNS Privacy Protocol: None (DNS-over-TLS (DoT) breaks internet)
+ - DNS Privacy Protocol: None ("DNS-over-TLS (DoT)" breaks internet)
  - DNS-over-TLS Profile: Strict
  - Present servers: IPv4 / Cloudflare 1.1.1.1
 
