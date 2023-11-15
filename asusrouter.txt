@@ -1,0 +1,106 @@
+ASUS Router App
+-----------------------------
+
+-----------------------------
+AiProtection
+-----------------------------
+ - Enable AiProtection: Disabled (lags internet and uses bandwidth)
+
+Router Security:
+ - UPnP service: Disabled
+ - Web Acces from WAN: Disabled
+ - Ping from WAN: Disabled
+ - DMZ: Disabled
+ - Port Trigger: Disabled
+ - Port Forwarding: Disabled
+
+Wireless Security:
+ - WPS: Disabled
+
+File Sharing Security:
+ - Anomymous login to FTP share: Disabled
+ - Guest login for Samba: Disabled
+
+----------------------------
+QoS
+----------------------------
+
+QoS: Disabled
+
+----------------------------
+USB
+----------------------------
+
+FTP:
+ - Enable FTP: Disabled
+ - Allow anonymous login: Disabled
+ - Enable TLS support: Disabled
+
+Samba:
+ - Enable samba share: Disabled
+ - Allow Guest login: Disabled
+
+----------------------------
+WiFi
+----------------------------
+
+Wireless Settings:
+
+Authentication Method: WPA2/WPA3-Personal
+
+2.4GHz WiFi
+ - Enable Radio - Disabled
+
+5GHz WiFi
+ - Enable Radio - Enabled
+ - Enable 160MHz bandwidth: Enabled
+ - Control Channel: Enabled
+
+---------------------------
+WAN
+---------------------------
+
+DNS Setting:
+ - Select DNS server manually: Enabled
+ - Primary DNS server: 1.1.1.1
+
+4G / 5G Auto Mobile Tethering: Disabled
+
+---------------------------
+System Settings
+---------------------------
+
+ - Remote Connection: Enabled (never Disable, breaks login)
+
+
+
+---------------------------
+WebUI (www.asusrouter.com:8443)
+---------------------------
+
+Advanced Settings
+---------------------------
+
+---------------------------
+Wireless
+---------------------------
+
+ - WiFi Agile Multiboard: Disabled (lags internet)
+ - Target Wake Time: Disabled
+
+---------------------------
+WAN
+---------------------------
+
+ - Enable NAT: No
+ - Enable DNS Rebind protection: Yes
+ - Enable DNSSEC support: Yes
+ - Validate unsigned DNSSEC replies: Yes
+ - Prevent client auto DoH: No
+ - DNS Privacy Protocol: DNS-over-TLS (DoT)
+ - DNS-over-TLS Profile: Strict
+ - Present servers: IPv4 / Cloudflare 1.1.1.1
+
+---------------------------
+IPv6
+---------------------------
