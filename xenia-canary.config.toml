@@ -11,7 +11,7 @@ d3d12_readback_resolve = true
 internal_display_resolution = 16
 
 [GPU]
-clear_memory_page_state = false
+clear_memory_page_state = true
 gpu = "d3d12"
 render_target_path_d3d12 = "rov"
 render_target_path_vulkan = "fsi"
