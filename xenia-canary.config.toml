@@ -1,0 +1,21 @@
+[APU]
+apu = "xaudio2"
+apu_max_queued_frames = 16
+
+[D3D12]
+d3d12_allow_variable_refresh_rate_and_tearing = false
+d3d12_queue_priority = 2
+d3d12_readback_resolve = true
+
+[Display]
+internal_display_resolution = 16
+
+[GPU]
+clear_memory_page_state = false
+gpu = "d3d12"
+render_target_path_d3d12 = "rov"
+render_target_path_vulkan = "fsi"
+vsync = false
+
+[Storage]
+mount_cache = true
