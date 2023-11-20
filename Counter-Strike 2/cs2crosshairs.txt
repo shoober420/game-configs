@@ -17,6 +17,10 @@
 ### CS1.6 LARGE CROSSHAIR (without -stretchaspect)
 # cl_crosshairalpha 999;cl_crosshaircolor 1;cl_crosshairdot 0;cl_crosshairgap 1;cl_crosshairsize 4.5;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 1;cl_crosshair_sniper_width 1;cl_crosshair_drawoutline 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshair_outlinethickness 0;cl_crosshaircolor_r 50;cl_crosshaircolor_g 250;cl_crosshaircolor_b 50;cl_crosshair_friendly_warning 0;cl_crosshair_recoil 0
 
+### s1mple dot crosshair
+cl_crosshairalpha 999;cl_crosshaircolor 1;cl_crosshairdot 1;cl_crosshairgap 0;cl_crosshairsize 0;cl_crosshairstyle 4;cl_crosshairusealpha 1;cl_crosshairthickness 1.5;cl_crosshair_sniper_width 1;cl_crosshair_drawoutline 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshair_outlinethickness 0;cl_crosshaircolor_r 50;cl_crosshaircolor_g 250;cl_crosshaircolor_b 50;cl_crosshair_friendly_warning 0;cl_crosshair_recoil 0
+
+
 ##### For use with 1366x768/1360x768 resolutions (1366 preferred and more accurate 16:9 representation, 1360 used for older and cheaper monitors and TVs, less accurate 16:9 representation)
 
 ### CS1.6 LARGE CROSSHAIR (without -stretchaspect)
