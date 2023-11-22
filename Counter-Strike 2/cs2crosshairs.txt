@@ -52,5 +52,5 @@ NVIDIA Reflex Low Latency "Enabled + Boost" fixes stuttering
 
 CS2 requires 1600x1200 4:3 or 1920x1080 16:9 for nice looking particles, smoke, crosshair, and GUI
 
-1600x1200 sharpest 4:3 crosshair
-2560x1440+ sharpest 16:9 crosshair
+1600x1200+ sharpest 4:3 crosshair (1600x1200 best)
+2560x1440+ sharpest 16:9 crosshair (2560x1440 best)
