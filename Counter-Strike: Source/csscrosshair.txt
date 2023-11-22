@@ -1,3 +1,5 @@
+# CSS Crosshairs
+
 # For 800x600 / 1024x768 STRETCHED resolutions 
 
 # CS1.6 LARGE CROSSHAIR (without -stretchaspect)
