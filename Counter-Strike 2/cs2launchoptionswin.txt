@@ -1,1 +1,1 @@
--width 1600 -height 1200 -clientport 65007 -console -forcenovsync -fullscreen -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload +exec autoexec.cfg -nodns -no-browser -noaafonts
+-width 1600 -height 1200 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload +exec autoexec.cfg -nodns -no-browser -noaafonts
