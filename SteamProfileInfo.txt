@@ -33,6 +33,11 @@
 [b][u]CS2[/u][/b]
 [i]Resolution[/i]: 1600x1200 (stretched)
 [url=https://raw.githubusercontent.com/shoober420/game-configs/main/Counter-Strike%202/cs2crosshairs.txt]Crosshair[/url]
+[url=https://raw.githubusercontent.com/shoober420/game-configs/main/Counter-Strike%202/autoexec.cfg]Autoexec Config[/url]
+[url=https://raw.githubusercontent.com/shoober420/game-configs/main/Counter-Strike%202/cs2launchoptionswin.txt]Command-Line Parameters[/url]
+
+
+
 
 Sensitivity: 4
 DPI: 400
@@ -130,4 +135,4 @@ DPI: 400
 [url=http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2.html]dgVoodoo2[/url]
 [url=https://github.com/elishacloud/dxwrapper]DxWrapper[/url]
 [url=https://github.com/crosire/d3d8to9]d3d8to9[/url]
-[url=http://www.zeus-software.com/downloads/nglide]nGlide[/url]
+[url=http://www.zeus-software.com/download
