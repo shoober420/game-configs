@@ -46,9 +46,6 @@
 [url=https://raw.githubusercontent.com/shoober420/game-configs/main/Counter-Strike%202/autoexec.cfg]Autoexec Config[/url]
 [url=https://raw.githubusercontent.com/shoober420/game-configs/main/Counter-Strike%202/cs2launchoptionswin.txt]Command-Line Parameters[/url]
 
-
-
-
 Sensitivity: 4
 DPI: 400
 
@@ -98,3 +95,5 @@ DPI: 400
 [b]Keyboard[/b]: SteelSeries 6Gv2 PS/2 [b](Cherry MX Red)[/b] [b](Tai-Hao Vintage Grey+White)[/b]
 [b]Headphones[/b]: Sennheiser HD599
 [b]Microphone[/b]: Blue Snowball iCE
+
+[url=https://raw.githubusercontent.com/shoober420/game-configs/main/SteamProfileInfo3.txt]Source Ports, Emulators, and Tools[/url]
