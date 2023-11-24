@@ -1,1 +1,3 @@
 -gl -full -w 4096 -h 2160 -freq 120 -nocdaudio -nointro -noipx -nojoy -noforcemparms -noforcemaccel -noforcemspd -nomsaa -nobots -num_edicts 32768 -heapsize 1048576 +clientport 65007 -stretchaspect
+
+### Half-Life crashes when copying userconfig.cfg as autoexec.cfg
