@@ -14,6 +14,11 @@
 [url=https://raw.githubusercontent.com/shoober420/game-configs/main/Counter-Strike%201.6/userconfigperf.cfg]Userconfig Performance[/url]
 [url=https://raw.githubusercontent.com/shoober420/game-configs/main/Counter-Strike%201.6/userconfighq.cfg]Userconfig High Quality[/url]
 
+[b][u]TFC[/u][/b]
+[i]Resolution[/i]: 640x480 (black bars)
+[url=https://raw.githubusercontent.com/shoober420/game-configs/main/Team%20Fortress%20Classic/userconfigperf.cfg]Userconfig Performance[/url]
+[url=https://raw.githubusercontent.com/shoober420/game-configs/main/Team%20Fortress%20Classic/userconfighq.cfg]Userconfig High Quality[/url]
+
 [b][u]Half-Life[/u][/b]
 [i]Resolution[/i]: 640x480 (black bars)
 [url=https://raw.githubusercontent.com/shoober420/game-configs/main/Half-Life/userconfigperf.cfg]Userconfig Performance[/url]
@@ -22,10 +27,15 @@
 [b][u]CSS[/u][/b]
 [i]Resolution[/i]: 800x600 (black bars)
 [url=https://raw.githubusercontent.com/shoober420/game-configs/main/Counter-Strike%3A%20Source/csscrosshair.txt]Crosshair[/url]
+[url=https://raw.githubusercontent.com/shoober420/game-configs/main/Counter-Strike%3A%20Source/autoexecfun.cfg]Autoexec Config Performance[/url]
+[url=https://github.com/shoober420/game-configs/blob/main/Counter-Strike%3A%20Source/autoexechq.cfg]Autoexec Config High Quality[/url]
 
 [b][u]TF2[/u][/b]
 [i]Resolution[/i]: 1024x768 (stretched)
 [url=https://raw.githubusercontent.com/shoober420/game-configs/main/Team%20Fortress%202/tf2crosshair1024.txt]Crosshair[/url]
+[url=https://raw.githubusercontent.com/shoober420/game-configs/main/Team%20Fortress%202/autoexecpro.cfg]Autoexec Config Performance[/url]
+[url=https://raw.githubusercontent.com/shoober420/game-configs/main/Team%20Fortress%202/autoexechq.cfg]Autoexec Config High Quality[/url]
+
 
 [b][u]CSGO[/u][/b]
 [i]Resolution[/i]: 1280x960 (stretched)
@@ -88,51 +98,3 @@ DPI: 400
 [b]Keyboard[/b]: SteelSeries 6Gv2 PS/2 [b](Cherry MX Red)[/b] [b](Tai-Hao Vintage Grey+White)[/b]
 [b]Headphones[/b]: Sennheiser HD599
 [b]Microphone[/b]: Blue Snowball iCE
-
-[h1][b][u]Source Ports[/u][/b][/h1]
-
-[i]Wolfenstein 3D / Spear of Destiny[/i]: [url=http://maniacsvault.net/ecwolf/]ECWolf[/url]
-[i]Doom / Doom 2 / Heretic / Hexen / Strife[/i]: [url=https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom/]Chocolate Doom[/url]
-[i]Syndicate[/i]: [url=https://freesynd.sourceforge.io/]FreeSynd[/url]
-[i]Rise of the Triad[/i]: [url= https://github.com/LTCHIPS/rottexpr]rottexpr[/url]
-[i]Marathon[/i]: [url=https://alephone.lhowon.org/]Aleph One[/url]
-[i]Duke Nukem 3D[/i]: [url=http://www.eduke32.com/]EDuke32[/url]
-[i]Descent / Descent 2[/i]: [url=https://www.dxx-rebirth.com/]DXX-Rebirth[/url]
-[i]Diablo[/i]: [url=https://github.com/diasurgical/devilutionX]DevilutionX[/url]
-[i]Fallout[/i]: [url=https://www.nma-fallout.com/threads/hi-res-patches-for-fallout1-2-the-bis-mapper.181743/]Hi-Res Patch[/url] 
-[i]Fallout 2[/i]: [url=https://github.com/phobos2077/sfall]sfall[/url]
-[i]Quake[/i]: [url=https://disenchant.net/tyrquake/]tyrquake[/url]
-[i]Quake II[/i]: [url=https://www.yamagi.org/quake2/]yamagi[/url]
-[i]Hexen II[/i]: [url=http://uhexen2.sourceforge.net/]uHexen2[/url]
-[i]Unreal Gold[/i]: [url=http://www.oldunreal.com/]227j[/url]
-[i]Unreal Tournament 99[/i]: [url=https://github.com/OldUnreal/UnrealTournamentPatches]UT469[/url]
-[i]Thief: The Dark Project / Thief Gold[/i]: [url=https://www.ttlg.com/forums/showthread.php?t=134733] TFix [/url]  [url=https://www.ttlg.com/forums/showthread.php?t=140679]GoldToDark[/url]
-[i]System Shock 2 / Thief 2[/i]: [url=http://www.ttlg.com/forums/showthread.php?t=146448/]NewDark[/url]
-[i]Deus Ex[/i]: [url=http://www.cwdohnal.com/utglr/] enhanced OpenGL renderer [/url] [url=https://www.kentie.net/article/dxguide]Deus Exe[/url]
-[i]Quake III Arena[/i]: [url=https://ioquake3.org/]ioquake3[/url]
-[i]Return to Castle Wolfenstein[/i]: [url= https://github.com/iortcw/iortcw/]iortcw[/url]
-[i]Wolfenstein: Enemy Territory[/i]: [url=https://www.etlegacy.com/]etlegacy[/url]
-[i]RollerCoaster Tycoon 2[/i]: [url=https://openrct2.org/]OpenRCT2[/url]
-[i]Red Faction[/i]: [url=https://github.com/rafalh/dashfaction]Dash Faction[/url]
-[i]Gothic[/i]: [url= http://www.worldofgothic.com/dl/?go=dlfile&fileid=10]1.08k[/url] [url= https://www.worldofgothic.de/dl/download_34.htm]PlayerKit[/url][url=https://forum.worldofplayers.de/forum/threads/1340357-Release-Gothic-%C2%BD-%C2%97-SystemPack-%28ENG-DEU%29]SystemPack[/url]
-[i]Gothic 2[/i]: [url= https://github.com/GothicFixTeam/GothicFix]SystemPack[/url]
-[i]Doom 3[/i]: [url=https://github.com/dhewm/dhewm3]dhewm3[/url]
-[i]Vampire: The Masquerade - Bloodlines[/i]: [url=https://www.moddb.com/mods/vtmb-unofficial-patch]Unofficial Patch[/url]
-
-[h1][b][u]Emulators[/u][/b][/h1]
-
-[i]Famicom / NES[/i]: [url=https://www.mesen.ca/]mesen[/url]
-[i]Super Famicom / SNES[/i]: [url=https://byuu.org/higan]higan[/url]
-[i]Sega Mega Drive / Genesis[/i]: [url=https://retrodev.com/blastem/]BlastEm[/url]
-[i]PC Engine / TurboGrafx-16[/i]: [url=https://mednafen.github.io/]mednafen[/url]
-[i]DOS[/i]: [url=https://www.dosbox.com/]DOSBox[/url]
-[i]Amiga[/i]: [url=https://fs-uae.net/]FS-UAE[/url]
-[i]Playstation[/i]: [url=drhell.web.fc2.com/ps1/]XEBRA[/url]
-[i]Nintendo 64[/i]: [url=https://cen64.com]cen64[/url]
-
-[h1][b][u]Tools[/u][/b][/h1]
-
-[url=http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2.html]dgVoodoo2[/url]
-[url=https://github.com/elishacloud/dxwrapper]DxWrapper[/url]
-[url=https://github.com/crosire/d3d8to9]d3d8to9[/url]
-[url=http://www.zeus-software.com/download
