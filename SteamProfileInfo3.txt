@@ -1,0 +1,50 @@
+Source Ports
+------------------------
+
+Wolfenstein 3D / Spear of Destiny: ECWolf - http://maniacsvault.net/ecwolf/
+Doom / Doom 2 / Heretic / Hexen / Strife: Chocolate Doom - https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom/
+Syndicate: FreeSynd - https://freesynd.sourceforge.io/
+Rise of the Triad: rottexpr - https://github.com/LTCHIPS/rottexpr
+Marathon: Aleph One - https://alephone.lhowon.org/
+Duke Nukem 3D: EDuke32 - http://www.eduke32.com/
+Descent / Descent 2: DXX-Rebirth - https://www.dxx-rebirth.com/
+Diablo: DevilutionX - https://github.com/diasurgical/devilutionX
+Fallout: Hi-Res Patch - https://www.nma-fallout.com/threads/hi-res-patches-for-fallout1-2-the-bis-mapper.181743/
+Fallout 2: sfall - https://github.com/phobos2077/sfall
+Quake: tyrquake - https://disenchant.net/tyrquake/
+Quake II: yamagi - https://www.yamagi.org/quake2/
+Hexen II: uHexen2 - http://uhexen2.sourceforge.net/
+Unreal Gold: 227j - http://www.oldunreal.com/
+Unreal Tournament 99: UT469 - https://github.com/OldUnreal/UnrealTournamentPatches
+Thief: The Dark Project / Thief Gold: TFix - https://www.ttlg.com/forums/showthread.php?t=134733 | GoldToDark - https://www.ttlg.com/forums/showthread.php?t=140679
+System Shock 2 / Thief 2: NewDark - http://www.ttlg.com/forums/showthread.php?t=146448/
+Deus Ex: enhanced OpenGL renderer - http://www.cwdohnal.com/utglr/ | Deus Exe - https://www.kentie.net/article/dxguide/
+Quake III Arena: ioquake3 - https://ioquake3.org/
+Return to Castle Wolfenstein: iortcw - https://github.com/iortcw/iortcw/
+Wolfenstein: Enemy Territory: etlegacy - https://www.etlegacy.com/
+RollerCoaster Tycoon 2: OpenRCT2 - https://openrct2.org/
+Red Faction: Dash Faction - https://github.com/rafalh/dashfaction
+Gothic: 1.08k - http://www.worldofgothic.com/dl/?go=dlfile&fileid=10 | PlayerKit - https://www.worldofgothic.de/dl/download_34.htm | SystemPack - https://forum.worldofplayers.de/forum/threads/1340357-Release-Gothic-%C2%BD-%C2%97-SystemPack-%28ENG-DEU%29
+Gothic 2: SystemPack - https://github.com/GothicFixTeam/GothicFix
+Doom 3: dhewm3 - https://github.com/dhewm/dhewm3
+Vampire: The Masquerade - Bloodlines: Unofficial Patch - https://www.moddb.com/mods/vtmb-unofficial-patch
+
+Emulators
+------------------------
+
+Famicom / NES: mesen - https://www.mesen.ca/
+Super Famicom / SNES: higan - https://byuu.org/higan
+Sega Mega Drive / Genesis: BlastEm - https://retrodev.com/blastem/
+PC Engine / TurboGrafx-16: mednafen - https://mednafen.github.io/
+DOS: DOSBox - https://www.dosbox.com/
+Amiga: FS-UAE - https://fs-uae.net/
+Playstation: XEBRA - drhell.web.fc2.com/ps1/
+Nintendo 64: cen64 - https://cen64.com
+
+Tools
+------------------------
+
+dgVoodoo2: http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2.html
+DxWrapper: https://github.com/elishacloud/dxwrapper
+d3d8to9: https://github.com/crosire/d3d8to9
+nGlide: http://www.zeus-software.com/downloads/nglide
