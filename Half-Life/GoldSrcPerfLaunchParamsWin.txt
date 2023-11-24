@@ -1,4 +1,4 @@
--gl -full -w 640 -h 480 -freq 120 -nocdaudio -nointro -noipx -nojoy -noforcemparms -noforcemaccel -noforcemspd -nomsaa -nobots +clientport 65007 -mousethread
+-gl -full -w 640 -h 480 -freq 120 -nocdaudio -nointro -novid -noipx -nojoy -noforcemparms -noforcemaccel -noforcemspd -nomsaa -nobots +clientport 65007 -mousethread
 
 # -stretchaspect will remove black bars
 
