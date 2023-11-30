@@ -16,8 +16,6 @@ Counter-Strike 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Cou
 Deus Ex:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Deus Ex/System)
              Linux (~/.steam/root/steamapps/common/Deus Ex/System)
 
-Quake enhanced: Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Quake)
-
 ezquake:     Windows (%USERPROFILE%\Downloads\ezquake)
              Linux (~/.ezquake)
 
@@ -38,6 +36,10 @@ Left 4 Dead 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Left 4
 
 mpv:     Windows (%USERPROFILE%\Downloads\mpv\portable_config)
          Linux (~/.config/mpv/mpv.conf)
+
+Quake rerelease: Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Quake)
+
+Quake II rerelease: Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Quake II\baseq2)
 
 Sven Co-op:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Sven Co-op\svencoop)
                 Linux (~/.steam/root/steamapps/common/Sven Co-op\svencoop)
