@@ -63,6 +63,8 @@ Team Fortress Classic:     Windows (C:\Program Files (x86)\Steam\steamapps\commo
 
 Turok:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Turok)
 
+Turok 2 - Seeds of Evil:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Turok 2 - Seeds of Evil)
+
 tyrquake:     Windows (%USERPROFILE%\Downloads\tyrquake)
               Linux (~/.tyrquake)
 
