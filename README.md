@@ -2,6 +2,7 @@
 Video game configuration files
 
 * Bioshock
+* Blood: Fresh Supply
 * Counter-Strike 1.6
 * Counter-Strike: Source
 * Counter-Strike 2
