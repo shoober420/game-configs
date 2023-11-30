@@ -23,6 +23,8 @@ Doom 64:     Windows (%USERPROFILE%\Saved Games\Nightdive Studios\DOOM 64)
 ezquake:     Windows (%USERPROFILE%\Downloads\ezquake)
              Linux (~/.ezquake)
 
+Forsaken Remastered:     Windows (%USERPROFILE%\AppData\Roaming\Nightdive Studios\Forsaken EX)
+
 Half-Life:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve)
                Linux (~/.steam/root/steamapps/common/Half-Life/valve)
 
