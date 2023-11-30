@@ -7,6 +7,7 @@ Video game configuration files
 * Counter-Strike 2
 * Deus Ex
 * Doom / Doom II / Final Doom
+* Doom 64
 * Half-Life
 * Half-Life 2
 * Hexen II
