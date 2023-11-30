@@ -9,6 +9,7 @@ Video game configuration files
 * Deus Ex
 * Doom / Doom II / Final Doom
 * Doom 64
+* Forsaken Remastered
 * Half-Life
 * Half-Life 2
 * Hexen II
