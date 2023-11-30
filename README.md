@@ -13,6 +13,7 @@ Video game configuration files
 * Hexen II
 * Left 4 Dead 2
 * mpv
+* PowerSlave: Exhumed
 * Quake
 * Quake II
 * Quake III Arena
