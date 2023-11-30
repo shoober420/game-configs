@@ -23,6 +23,8 @@ Video game configuration files
 * System Shock 2
 * Team Fortress Classic
 * Team Fortress 2
+* Turok
+* Turok 2: Seeds of Evil
 * Unreal 98
 * Unreal Tournament 99
 * Unreal Tournament 2004
