@@ -39,6 +39,8 @@ Left 4 Dead 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Left 4
 mpv:     Windows (%USERPROFILE%\Downloads\mpv\portable_config)
          Linux (~/.config/mpv/mpv.conf)
 
+PowerSlave Exhumed:     Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Powerslave EX)
+
 Quake rerelease: Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Quake)
 
 Quake II rerelease: Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Quake II\baseq2)
