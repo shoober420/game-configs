@@ -1,6 +1,8 @@
 Bioshock:     Windows (%USERPROFILE%\AppData\Roaming\Bioshock)
               Linux (~/.steam/root/steamapps/compatdata/7670/pfx/drive_c/users/steamuser/AppData/Roaming/Bioshock)
 
+Blood - Fresh Supply:     Windows (%USERPROFILE%\AppData\Roaming\Nightdive Studios\Blood EX)
+
 Chocolate Doom:     Windows (%USERPROFILE%\Downloads\chocolate-doom) 
                     Linux (~/.chocolate-doom)
 
@@ -39,7 +41,7 @@ Left 4 Dead 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Left 4
 mpv:     Windows (%USERPROFILE%\Downloads\mpv\portable_config)
          Linux (~/.config/mpv/mpv.conf)
 
-PowerSlave Exhumed:     Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Powerslave EX)
+PowerSlave - Exhumed:     Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Powerslave EX)
 
 Quake rerelease: Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Quake)
 
