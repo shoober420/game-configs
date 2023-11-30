@@ -16,6 +16,8 @@ Counter-Strike 2:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Cou
 Deus Ex:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Deus Ex/System)
              Linux (~/.steam/root/steamapps/common/Deus Ex/System)
 
+Doom 64:     Windows (%USERPROFILE%\Saved Games\Nightdive Studios\DOOM 64)
+
 ezquake:     Windows (%USERPROFILE%\Downloads\ezquake)
              Linux (~/.ezquake)
 
