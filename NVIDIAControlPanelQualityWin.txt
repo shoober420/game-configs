@@ -50,5 +50,5 @@ Content type reported to the display: Games
 Adjust desktop size and position:
 --------------------------------------------
 
-Select a scaling mode: No scaling
+Select a scaling mode: No scaling (or "Aspect ratio", scaling adds input lag)
 Perform scaling on: Display (GPU scaling adds latency)
