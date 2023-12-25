@@ -49,6 +49,8 @@ Quake rerelease: Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Quake)
 
 Quake II rerelease: Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Quake II\baseq2)
 
+Rise of the Triad - Ludicrous Edition: Windows (%USERPROFILE%\Saved Games\Nightdive Studios\Rise of the Triad - Ludicrous Edition)
+
 Sven Co-op:     Windows (C:\Program Files (x86)\Steam\steamapps\common\Sven Co-op\svencoop)
                 Linux (~/.steam/root/steamapps/common/Sven Co-op\svencoop)
 
