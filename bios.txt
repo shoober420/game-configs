@@ -19,7 +19,7 @@ Intel Speed Shift Technology: Disabled
 CPU Thermal Monitor: Disabled
 Ring to Core offset (Down Bin): Disabled (power savings option)
 CPU EIST Function: Disabled
-Race to Halt: Disabled (power saving option)
+Race to Halt (RTH): Disabled (power saving option)
 Energy Efficient Turbo: Disabled
 Intel Turbo Boost Technology: Enabled
 Frequency TVB: Disabled
