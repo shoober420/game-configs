@@ -69,6 +69,7 @@ System Memory Multiplier: DDR5-XXXX (match RAM mhz)
 
 Advanced Memory Settings:
 Memory Ref Clock: 133
+Gear Mode: Gear 2 (lowest Gear prefered)
 Memory Boot Mode: Disable Fast Boot
 SA GV: Disabled (power saving option)
 Dynamic Memory Boost: Disabled
