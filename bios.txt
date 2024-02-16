@@ -114,6 +114,7 @@ Above 4G Decoding: Enabled
 Above 4GB MMIO BIOS assignment: Enabled
 Re-Size BAR Support: Enabled (improves performance)
 IOAPIC 24-119 Entries: Enabled (improves performance)
+GNA (Gaussian & Neural Accelerator): Enabled
 
 Gigabyte Utilities Downloader Configuration:
 Gigabyte Utilities Downloader: Disabled (uninstalls bloatware)
