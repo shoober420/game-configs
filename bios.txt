@@ -21,7 +21,8 @@ Ring to Core offset (Down Bin): Disabled (power savings option)
 CPU EIST Function: Disabled
 Race to Halt (RTH): Disabled (power saving option)
 Energy Efficient Turbo: Disabled
-Intel Turbo Boost Technology: Enabled
+Intel(R) Turbo Boost Technology: Enabled
+Intel(R) Turbo Boost Max Technology 3.0: Enabled
 Frequency TVB: Disabled
 Enhanced TVB (Thermal Velocity Boost): Disabled (lowers clock speeds under heavy load)
 Voltage Reduction Initiated TVB: Disabled
