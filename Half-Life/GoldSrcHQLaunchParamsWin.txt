@@ -1,4 +1,4 @@
--gl -full -w 4096 -h 2160 -freq 120 -nocdaudio -noipx -nojoy -noforcemparms -noforcemaccel -noforcemspd -num_edicts 32768 -heapsize 1048576 +clientport 65007 -mousethread
+-forceres -gl -full -w 4096 -h 2160 -freq 120 -nocdaudio -noipx -nojoy -noforcemparms -noforcemaccel -noforcemspd -num_edicts 32768 -heapsize 1048576 +clientport 65007 -mousethread
 
 ### -strectaspect will remove black bars
 
