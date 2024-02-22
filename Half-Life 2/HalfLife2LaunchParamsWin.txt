@@ -1,1 +1,1 @@
--w 4196 -h 2160 -threads 32 -full -clientport 65007 -forcenovsync -fullscreen -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -refreshrate 240 -freq 240 -tickrate 128 +exec autoexec.cfg -d3dex -nocrashdialog -nodns -nomessagebox +mat_queue_mode 2
+-w 4196 -h 2160 -full -clientport 65007 -forcenovsync -fullscreen -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -refreshrate 240 -freq 240 -tickrate 128 +exec autoexec.cfg -d3dex -nocrashdialog -nodns -nomessagebox +mat_queue_mode 2
