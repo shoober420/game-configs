@@ -9,10 +9,6 @@ REM 4. finally run this batch script to prevent any other external modifications
 
 cd C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike
 
-del tempdecal.wad
-echo. 2>tempdecal.wad
-attrib +r tempdecal.wad
-
 del autoexec.cfg
 echo. 2>autoexec.cfg
 attrib +r autoexec.cfg
