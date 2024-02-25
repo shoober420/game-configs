@@ -1,0 +1,7 @@
+Replace red ERROR model with shell_9mm model
+Using empty files with matching names will not work
+ - Download GCFScape
+ - Open C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\cstrike_pak_dir.vpk
+ - inside cstrike_pak_dir.vpk, go to \models\shells\
+ - extract shell_9mm* files to C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\custom\my_custom_stuff\models
+ - rename all files to error* keeping extensions
