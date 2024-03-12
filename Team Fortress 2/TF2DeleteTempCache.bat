@@ -14,6 +14,12 @@ REM attrib +r modelsounds.cache
 del "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cache"
 del "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\download\user_custom"
 
+cd "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\download\sound"
+
+del sound.cache
+REM echo. 2>sound.cache
+REM attrib +r sound.cache
+
 cd "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\sound"
 
 del sound.cache
