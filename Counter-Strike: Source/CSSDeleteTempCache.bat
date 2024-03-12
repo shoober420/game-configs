@@ -17,6 +17,12 @@ REM attrib +r modelsounds.cache
 del "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\cache"
 del "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\download\user_custom"
 
+cd "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\download\sound"
+
+del sound.cache
+REM echo. 2>sound.cache
+REM attrib +r sound.cache
+
 cd "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\sound"
 
 del sound.cache
