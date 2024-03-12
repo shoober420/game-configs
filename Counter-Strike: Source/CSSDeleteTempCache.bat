@@ -11,8 +11,8 @@ echo. 2>demoheader.tmp
 attrib +r demoheader.tmp
 
 del modelsounds.cache
-echo. 2>modelsounds.cache
-attrib +r modelsounds.cache
+REM echo. 2>modelsounds.cache
+REM attrib +r modelsounds.cache
 
 del "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\cache"
 del "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\download\user_custom"
@@ -20,7 +20,7 @@ del "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike
 cd "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\sound"
 
 del sound.cache
-echo. 2>sound.cache
-attrib +r sound.cache
+REM echo. 2>sound.cache
+REM attrib +r sound.cache
 
 PAUSE
