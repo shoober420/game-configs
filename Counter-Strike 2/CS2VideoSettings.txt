@@ -1,0 +1,15 @@
+=== Advanced Video ===
+ - Boost Player Contrast: Disabled
+ - Wait for Vertical Sync: Disabled
+ - Current Video Values Preset: Very High (Custom)
+
+ - Multisampling Anti-Aliasing Mode: None
+ - Global Shadow Quality: High
+ - Model / Texture Detail: Low
+ - Texture Filtering Mode: Bilinear
+ - Shader Detail: Low
+ - Particle Detail: Low
+ - Ambient Occulusion: High
+ - High Dynamic Range: Quality
+ - FidelityFX Super Resolution: Disabled (Highest Quality)
+ - NVIDIA Reflex Low Latency: Enabled + Boost
