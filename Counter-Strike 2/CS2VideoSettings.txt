@@ -4,12 +4,12 @@
  - Current Video Values Preset: Very High (Custom)
 
  - Multisampling Anti-Aliasing Mode: None
- - Global Shadow Quality: High
+ - Global Shadow Quality: High (for accurate shadows)
  - Model / Texture Detail: Low
  - Texture Filtering Mode: Bilinear
  - Shader Detail: Low
  - Particle Detail: Low
- - Ambient Occulusion: High
+ - Ambient Occulusion: Medium (for accurate shadows)
  - High Dynamic Range: Quality
  - FidelityFX Super Resolution: Disabled (Highest Quality)
  - NVIDIA Reflex Low Latency: Enabled + Boost
