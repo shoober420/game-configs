@@ -2,6 +2,10 @@
 
 # For use with 1024x768 stretched
 
+# f0rest new crosshair
+
+cl_crosshair_file "crosshair7";cl_crosshair_blue "255";cl_crosshair_green "255";cl_crosshair_red "0";cl_crosshair_scale "20";cl_crosshairalpha "999";cl_crosshaircolor "0"
+
 # CS1.6 LARGE CROSSHAIR
 
 cl_crosshair_file "crosshair6";cl_crosshair_blue "50";cl_crosshair_green "250";cl_crosshair_red "50";cl_crosshair_scale "30";cl_crosshairalpha "999";cl_crosshaircolor "0"
