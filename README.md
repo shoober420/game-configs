@@ -6,6 +6,8 @@ Video game configuration files
 * Counter-Strike 1.6
 * Counter-Strike: Source
 * Counter-Strike 2
+* Day of Defeat
+* Day of Defeat: Source
 * Deus Ex
 * Doom / Doom II / Final Doom
 * Doom 64
