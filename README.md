@@ -13,6 +13,7 @@ Video game configuration files
 * Doom 64
 * Forsaken Remastered
 * Half-Life
+* Half-Life: Source
 * Half-Life 2
 * Hexen II
 * Left 4 Dead 2
