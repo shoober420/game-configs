@@ -1,7 +1,7 @@
 Source Ports
 ------------------------
 
-Wolfenstein 3D / Spear of Destiny: ECWolf - http://maniacsvault.net/ecwolf/
+Wolfenstein 3D / Spear of Destiny: ReflectionWolf3D - https://github.com/ReflectionHLE/ReflectionHLE
 Doom / Doom 2 / Heretic / Hexen / Strife: Chocolate Doom - https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom/
 Syndicate: FreeSynd - https://freesynd.sourceforge.io/
 Rise of the Triad: rottexpr - https://github.com/LTCHIPS/rottexpr
