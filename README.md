@@ -23,6 +23,7 @@ Video game configuration files
 * Quake II
 * Quake III Arena
 * Rise of the Triad: Ludicrous Edition
+* Soldier of Fortune
 * Sven Co-op
 * System Shock 2
 * Team Fortress Classic
