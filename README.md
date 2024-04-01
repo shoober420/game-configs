@@ -24,6 +24,7 @@ Video game configuration files
 * Quake
 * Quake II
 * Quake III Arena
+* Return to Castle Wolfenstein
 * Rise of the Triad: Ludicrous Edition
 * Soldier of Fortune
 * Soldier of Fortune 2: Double Helix
