@@ -32,6 +32,7 @@ Video game configuration files
 * System Shock 2
 * Team Fortress Classic
 * Team Fortress 2
+* The Wheel of Time
 * Turok
 * Turok 2: Seeds of Evil
 * Unreal 98
