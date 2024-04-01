@@ -3,6 +3,7 @@ Video game configuration files
 
 * Bioshock
 * Blood: Fresh Supply
+* Clive Barker's Undying
 * Counter-Strike 1.6
 * Counter-Strike: Source
 * Counter-Strike 2
@@ -17,6 +18,7 @@ Video game configuration files
 * Half-Life 2
 * Hexen II
 * Left 4 Dead 2
+* Medal of Honor: Allied Assault
 * mpv
 * PowerSlave: Exhumed
 * Quake
@@ -24,6 +26,7 @@ Video game configuration files
 * Quake III Arena
 * Rise of the Triad: Ludicrous Edition
 * Soldier of Fortune
+* Soldier of Fortune 2: Double Helix
 * Sven Co-op
 * System Shock 2
 * Team Fortress Classic
