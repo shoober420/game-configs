@@ -26,6 +26,7 @@ Video game configuration files
 * Quake III Arena
 * Return to Castle Wolfenstein
 * Rise of the Triad: Ludicrous Edition
+* Rune
 * Soldier of Fortune
 * Soldier of Fortune 2: Double Helix
 * Sven Co-op
