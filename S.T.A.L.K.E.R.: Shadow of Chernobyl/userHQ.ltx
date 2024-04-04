@@ -1,3 +1,10 @@
+// texture_lod is Texture Detail in Video options, 0 is max quality, 4 is max performance
+// rs_vis_distance is Vision Distance in Video options, 1.5 is max quality, 0.4 is max performance
+// r__geometry_lod is Object Detail in Video options, 1.2 is max quality, 0.1 is max performance
+// r__detail_density is Grass Density in Video options, 0.2 is max quality, 0.6 is max performance
+// r__supersample is Antialiasing in Video options, 4 is max quality, 1 is max performance
+// r__tf_aniso is Anisotropic filtering in Video options, 16 is max quality, 1 is max performance
+
 _preset Extreme
 ai_use_torch_dynamic_lights on
 bemsg 1
@@ -98,6 +105,7 @@ net_cl_icurvesize 0
 net_cl_icurvetype 0
 net_cl_interpolation 0.
 net_cl_log_data off
+net_cl_update_rate 100
 net_compressor_enabled 0
 net_compressor_gather_stats 0
 net_dbg_dump_export_obj 0
@@ -108,12 +116,12 @@ net_dedicated_sleep 5
 net_sv_gpmode 0
 net_sv_log_data off
 net_sv_pending_lim 3
-net_sv_update_rate 101
+net_sv_update_rate 100
 ph_frequency 100.00000
 ph_iterations 38
 r1_dlights on
 r1_dlights_clip 75.
-r1_glows_per_frame 128
+r1_glows_per_frame 32
 r1_lmodel_lerp 0.1
 r1_pps_u 0.
 r1_pps_v 0.
@@ -125,7 +133,7 @@ r2_aa_break 0.800000,0.500000,0.000000
 r2_aa_kernel 0.5
 r2_aa_weight 0.250000,0.250000,0.000000
 r2_allow_r1_lights off
-r2_gi on
+r2_gi off
 r2_gi_clip 0.001
 r2_gi_depth 1
 r2_gi_photons 16
@@ -153,7 +161,7 @@ r2_sun_depth_far_bias -0.00001
 r2_sun_depth_far_scale 1.
 r2_sun_depth_near_bias 0.00001
 r2_sun_depth_near_scale 1.
-r2_sun_details off
+r2_sun_details on
 r2_sun_focus on
 r2_sun_lumscale 1.
 r2_sun_lumscale_amb 0.5
@@ -174,7 +182,7 @@ r2_zfill off
 r2_zfill_depth 0.5
 r2em 2.2
 r__detail_density 0.2
-r__geometry_lod 1.
+r__geometry_lod 1.2
 r__supersample 2
 r__tf_aniso 16
 renderer renderer_r2
