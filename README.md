@@ -29,6 +29,9 @@ Video game configuration files
 * Rune
 * Soldier of Fortune
 * Soldier of Fortune 2: Double Helix
+* S.T.A.L.K.E.R.: Shadow of Chernobyl
+* S.T.A.L.K.E.R.: Clear Sky
+* S.T.A.L.K.E.R.: Call of Pripyat
 * Sven Co-op
 * System Shock 2
 * Team Fortress Classic
