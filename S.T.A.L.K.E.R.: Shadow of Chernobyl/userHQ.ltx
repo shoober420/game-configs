@@ -7,7 +7,7 @@
 // r__detail_density is Grass Density in Video options, 0.2 is max quality, 0.6 is max performance
 // r__supersample is Antialiasing in Video options, 4 is max quality, 1 is max performance
 // r__tf_aniso is Anisotropic filtering in Video options, 16 is max quality, 1 is max performance
-// r2_sun_near 50 fixes disappearing shadows at distance
+// r2_sun_near 35 fixes disappearing shadows at distance
 // r2_sun_near_border 1 fixes glitchy shadows on the sides of the monitor using widescreen resolutions 
 // r2_sun_depth_near_bias -0.00001 fixes shadow shimmer on textures
 
@@ -165,14 +165,14 @@ r2_ssa_lod_b 64.
 r2_sun on
 r2_sun_depth_far_bias -0.00001
 r2_sun_depth_far_scale 1.
-r2_sun_depth_near_bias 0.00001
+r2_sun_depth_near_bias -0.00001
 r2_sun_depth_near_scale 1.
 r2_sun_details on
 r2_sun_focus on
 r2_sun_lumscale 1.
 r2_sun_lumscale_amb 0.5
 r2_sun_lumscale_hemi 1.
-r2_sun_near 30.
+r2_sun_near 35.
 r2_sun_near_border 1.00
 r2_sun_tsm on
 r2_sun_tsm_bias -0.01
