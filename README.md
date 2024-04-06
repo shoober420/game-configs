@@ -37,6 +37,7 @@ Video game configuration files
 * Team Fortress Classic
 * Team Fortress 2
 * The Wheel of Time
+* Thief: The Dark Project
 * Turok
 * Turok 2: Seeds of Evil
 * Unreal 98
