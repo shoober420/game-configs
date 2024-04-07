@@ -40,6 +40,8 @@ Video game configuration files
 * Team Fortress 2
 * The Wheel of Time
 * Thief: The Dark Project
+* Thief Gold
+* Thief II: The Metal Age
 * Turok
 * Turok 2: Seeds of Evil
 * Unreal 98
