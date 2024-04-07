@@ -20,6 +20,8 @@ Video game configuration files
 * Left 4 Dead 2
 * Medal of Honor: Allied Assault
 * mpv
+* Portal
+* Portal 2
 * PowerSlave: Exhumed
 * Quake
 * Quake II
