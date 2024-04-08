@@ -2,6 +2,7 @@
 Video game configuration files
 
 * Bioshock
+* Black Mesa
 * Blood: Fresh Supply
 * Clive Barker's Undying
 * Counter-Strike 1.6
