@@ -18,6 +18,7 @@ Video game configuration files
 * Half-Life
 * Half-Life: Source
 * Half-Life 2
+* Heretic II
 * Hexen II
 * Kingpin: Life of Crime
 * Left 4 Dead 2
