@@ -18,6 +18,7 @@ Video game configuration files
 * Half-Life: Source
 * Half-Life 2
 * Hexen II
+* Kingpin: Life of Crime
 * Left 4 Dead 2
 * Medal of Honor: Allied Assault
 * mpv
