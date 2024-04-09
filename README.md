@@ -1,6 +1,7 @@
 # game-configs
 Video game configuration files
 
+* Anachronox
 * Bioshock
 * Black Mesa
 * Blood: Fresh Supply
