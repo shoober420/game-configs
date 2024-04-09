@@ -30,6 +30,7 @@ Video game configuration files
 * Return to Castle Wolfenstein
 * Rise of the Triad: Ludicrous Edition
 * Rune
+* SiN Gold
 * Soldier of Fortune
 * Soldier of Fortune 2: Double Helix
 * S.T.A.L.K.E.R.: Shadow of Chernobyl
