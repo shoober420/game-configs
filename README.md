@@ -52,4 +52,5 @@ Video game configuration files
 * Unreal 98
 * Unreal Tournament 99
 * Unreal Tournament 2004
+* Vampire: The Masquerade - Bloodlines
 * Wolfenstein: Enemy Territory
