@@ -54,3 +54,4 @@ Video game configuration files
 * Unreal Tournament 2004
 * Vampire: The Masquerade - Bloodlines
 * Wolfenstein: Enemy Territory
+* Heretic II
