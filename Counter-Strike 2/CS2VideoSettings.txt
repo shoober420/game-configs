@@ -1,10 +1,11 @@
 === Advanced Video ===
  - Boost Player Contrast: Disabled
  - Wait for Vertical Sync: Disabled
- - Current Video Values Preset: Very High (Custom)
+ - Current Video Values Preset: Low (Custom)
 
  - Multisampling Anti-Aliasing Mode: None
- - Global Shadow Quality: High (for accurate shadows)
+ - Global Shadow Quality: High (for accurate shadows
+ - Dynamic Shadows: All
  - Model / Texture Detail: Low
  - Texture Filtering Mode: Bilinear
  - Shader Detail: Low
