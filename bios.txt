@@ -115,7 +115,7 @@ Above 4G Decoding: Enabled
 Above 4GB MMIO BIOS assignment: Enabled
 Re-Size BAR Support: Enabled (improves performance)
 IOAPIC 24-119 Entries: Enabled (improves performance)
-GNA (Gaussian & Neural Accelerator): Enabled
+GNA (Gaussian & Neural Accelerator): Disabled
 
 Gigabyte Utilities Downloader Configuration:
 Gigabyte Utilities Downloader: Disabled (uninstalls bloatware)
@@ -127,6 +127,8 @@ SATA Configuration:
 Aggressive LPM Support: Disabled
 
 Miscellaneous:
+LEDs in System Power On State: On
+LEDs in Sleep, Hibernation, and Soft Off States: Off
 3DMark01 Enhancement: Disabled
 CPU PCIe Link Speed: Gen5
 PCH PCIe Link Speed: Gen4
