@@ -32,8 +32,8 @@ Vampire: The Masquerade - Bloodlines: Unofficial Patch - https://www.moddb.com/m
 Emulators
 ------------------------
 
-Famicom / NES: mesen - https://www.mesen.ca/
-Super Famicom / SNES: higan - https://byuu.org/higan
+Famicom / NES: mesen2 - https://github.com/SourMesen/Mesen2
+Super Famicom / SNES: ares - https://github.com/ares-emulator/ares
 Sega Mega Drive / Genesis: BlastEm - https://retrodev.com/blastem/
 PC Engine / TurboGrafx-16: mednafen - https://mednafen.github.io/
 DOS: DOSBox - https://www.dosbox.com/
