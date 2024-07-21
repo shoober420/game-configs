@@ -14,3 +14,5 @@
  - High Dynamic Range: Quality
  - FidelityFX Super Resolution: Disabled (Highest Quality)
  - NVIDIA Reflex Low Latency: Enabled + Boost
+
+1600x1200 may very well be the sharpest resolution to play CS2  with, need a larger monitor to confirm, looks best on big screen TV (LG C2)
