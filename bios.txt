@@ -164,3 +164,6 @@ AIO Installation: Hoses down, Radiator Up (Water pump orientation with hoses poi
 
 NEVER enable E-cores (fixes stuttering)
 NEVER overclock E-cores, leave at max turbo clock speeds
+
+Monitor:
+Use warm color temp
