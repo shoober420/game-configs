@@ -166,4 +166,5 @@ NEVER enable E-cores (fixes stuttering)
 NEVER overclock E-cores, leave at max turbo clock speeds
 
 Monitor:
-Use warm color temp
+Use warm color temp, its more accurate color reproduction
+use dark stabilizer, increases sharpness and image depth, amount depends on monitor
