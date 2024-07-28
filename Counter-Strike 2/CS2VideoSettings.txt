@@ -16,3 +16,8 @@
  - NVIDIA Reflex Low Latency: Enabled + Boost
 
 1600x1200 may very well be the sharpest resolution to play CS2  with, need a larger monitor to confirm, looks best on big screen TV (LG C2)
+
+Stretched 4:3 with Vulkan and NVIDIA:
+NVControlPanel > Display > Change resolution > 1280x960 240Hz
+NVControlPanel > Display > Adjust desktop size and position > Scaling > Full-screen
+CS2 launch options: -noborder -windowed -vulkan
