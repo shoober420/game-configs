@@ -4,8 +4,8 @@
  - Current Video Values Preset: Low (Custom)
 
  - Multisampling Anti-Aliasing Mode: None
- - Global Shadow Quality: High (for accurate shadows
- - Dynamic Shadows: All
+ - Global Shadow Quality: High (for accurate shadows)
+ - Dynamic Shadows: All (for accurate shadows)
  - Model / Texture Detail: Low
  - Texture Filtering Mode: Bilinear
  - Shader Detail: Low
