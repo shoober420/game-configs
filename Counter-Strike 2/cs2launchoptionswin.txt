@@ -2,3 +2,5 @@
 -w 1600 -h 1200 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload +exec autoexec.cfg -nodns -no-browser -noaafonts
 
 -condebug (creates console log, useful for cvarlist generation)
+
+-windowed -noborder (possibly needed for 4:3 stretched using Vulkan API) (Vulkan has a bug that will force black bars for 4:3 resolutions)
