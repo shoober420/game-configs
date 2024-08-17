@@ -116,7 +116,7 @@ ErP: Disabled
 
 IO Ports:
 SPD Write Disable: TRUE
-OnBoard LAN Controller: Disablrd
+OnBoard LAN Controller: Disabled
 Audio Controller: Disabled
 Above 4G Decoding: Enabled
 Above 4GB MMIO BIOS assignment: Enabled
