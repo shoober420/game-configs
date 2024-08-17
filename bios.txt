@@ -65,9 +65,11 @@ Turbo Per Core Limit Control: Manual
 Turbo P-Core X Ratio Limit: 58 (5.80GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core X Ratio Limit: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
 
-Extreme Memory Profile(X.M.P.): XMP 1
+DDR5 Auto Booster: Disabled
 High Bandwidth: Enabled
 Low Latency: Enabled
+DDR5 XMP Booster: Disabled
+Extreme Memory Profile(X.M.P.): XMP 1
 System Memory Multiplier: DDR5-XXXX (match RAM mhz)
 
 Advanced Memory Settings:
