@@ -6,7 +6,7 @@ Tweaker
 
 Intel Default Settings: Disabled
 GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
-                    Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores by 100MHz on all P-cores, 200MHz on E-cores)
+                    Instant 6GHz (Only 2 cores boost to 6GHz, lower clock speeds than "Optimization" when app uses 2+ cores)
 
 CPU Upgrade: Max Performance Profile
 Enhanced Multi-Core Performance: Disabled (not needed for manual OC, adds voltage and heat)
@@ -15,6 +15,7 @@ Min Ring Ratio: 45 (4.50 GHz / Try to match P-Core clock speeds)
 
 Advanced CPU Settings:
 
+PVD Ratio Threshold Override: Auto
 CPU Over Temperature Protection: 100°C (depends on CPU)
 Hyper-Threading Technology: Disabled
 Intel Speed Shift Technology: Disabled
@@ -25,6 +26,7 @@ Race to Halt (RTH): Disabled (power saving option)
 Energy Efficient Turbo: Disabled
 Intel(R) Turbo Boost Technology: Enabled
 Intel(R) Turbo Boost Max Technology 3.0: Enabled
+CPU Flex Ratio Override: Disabled
 Frequency TVB:
  - Frequency Clipping TVB: Disabled
 Enhanced TVB (Thermal Velocity Boost): Disabled (lowers clock speeds under heavy load)
