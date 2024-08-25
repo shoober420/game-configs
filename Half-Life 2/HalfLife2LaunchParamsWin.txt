@@ -5,3 +5,5 @@
 -threads 24+ cause crashes on 13900kf (32 thread processor)
 
 -d3dex for HQ D3D
+
+-refreshrate 240 -freq 240 also force refresh rate
