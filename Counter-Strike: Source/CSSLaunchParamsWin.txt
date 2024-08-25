@@ -5,3 +5,5 @@
 -threads 24+ cause crashes on 13900kf (32 thread processor)
 
 -d3dex for HQ D3D
+
+-vulkan might NOT be supported in CS:S
