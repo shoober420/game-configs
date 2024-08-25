@@ -1,4 +1,3 @@
-
 -vulkan -w 1600 -h 1200 -refresh 120 -threads 24 -clientport 65007 -console -forcenovsync -fullscreen -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts +exec autoexec.cfg
 
 -condebug (creates console log, useful for cvarlist generation)
