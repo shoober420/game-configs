@@ -1,4 +1,4 @@
--w 3840 -h 2160 -threads 24 -clientport 65007 -console -forcenovsync -fullscreen -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -d3dex -nodns -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+-vullan -w 3840 -h 2160 -threads 24 -clientport 65007 -console -forcenovsync -fullscreen -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 -condebug (creates console log, useful for cvarlist generation)
 
