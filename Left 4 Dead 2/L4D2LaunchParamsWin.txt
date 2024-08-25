@@ -7,3 +7,5 @@
 -d3dex for HQ D3D
 
 -refreshrate 240 -freq 240 also force refresh rate
+
+-fullscreen may crash with -vulkan, use -windowed -noborder
