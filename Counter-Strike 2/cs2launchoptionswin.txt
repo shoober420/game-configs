@@ -5,4 +5,6 @@
 
 -windowed -noborder (possibly needed for 4:3 stretched using Vulkan API) (Vulkan has a bug that could force black bars for 4:3 resolutions)
 
+-refreshrate 240 -freq 240 also force refresh rate
+
 bind alt "toggle cl_radar_scale 1 0.3; toggle cl_radar_always_centered 1 0" (could trigger kick from server by VACNet)
