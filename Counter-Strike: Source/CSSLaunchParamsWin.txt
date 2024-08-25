@@ -6,4 +6,6 @@
 
 -d3dex for HQ D3D
 
+-refreshrate 240 -freq 240 also force refresh rate
+
 -vulkan might NOT be supported in CS:S
