@@ -85,7 +85,7 @@ Memory Enhancement Settings: Enhanced Performance
 Memory Timing Mode: Fixed
 Memory Channel Detection Message: Enabled
 
-Vcore Voltage Mode: Fixed Vcore (Adaptive Vcore causes instability and stuttering)
+Vcore Voltage Mode: Adaptive Vcore (If instability and stuttering occur, use Fixed Vcore)
 VF Offset Mode: Selection
 CPU Vcore: 1.450V (lower voltage significantly reduces temps)
 Dynamic Vcore (DVID): +0.000V
