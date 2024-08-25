@@ -10,8 +10,8 @@ GIGABYTE PerfDrive: Optimization (All cores turbo max clock)
 
 CPU Upgrade: Max Performance Profile
 Enhanced Multi-Core Performance: Disabled (not needed for manual OC, adds voltage and heat)
-Max Ring Ratio: 45 (4.50 GHz / Try to match P-Core clock speeds)
-Min Ring Ratio: 45 (4.50 GHz / Try to match P-Core clock speeds)
+Max Ring Ratio: 50 (5.00 GHz / Try to match P-Core clock speeds)
+Min Ring Ratio: 50 (5.00 GHz / Try to match P-Core clock speeds)
 
 Advanced CPU Settings:
 
@@ -31,8 +31,8 @@ Frequency TVB:
  - Frequency Clipping TVB: Disabled
 Enhanced TVB (Thermal Velocity Boost): Disabled (lowers clock speeds under heavy load)
 Voltage Reduction Initiated TVB: Disabled
-IA CEP (Current Excursion Protection): Disabled
-GT CEP (Current Excursion Protection): Disabled
+IA CEP (Current Excursion Protection): Disabled (reduces the current draw and temperatures by “phantom throttling”)
+GT CEP (Current Excursion Protection): Disabled (reduces the current draw and temperatures by “phantom throttling”)
 Fll OC Mode: Auto
 Legacy Game Compatibility Mode: Disabled
 Intel (VMX) Virtualization Technology: Disabled
@@ -48,7 +48,7 @@ AVX Optimum: Disabled (increase CPU voltage on AVX workloads)
 AVX Voltage Guardband Scale Factor: Auto (0 preferred)
 
 Active Turbo Ratios: Manual
-Turbo Ratio (X P-Core Active): 58 (5.80 GHz / Auto defaults to max Turbo clock speeds)
+Turbo Ratio (X P-Core Active): 57 (5.70 GHz / Auto defaults to max Turbo clock speeds)
 
 Turbo E-Core Ratio X: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core Range X: 16
@@ -62,7 +62,7 @@ C-States Control: Disabled
 Turbo Power Limits: Auto (Disabled preferred)
 
 Turbo Per Core Limit Control: Manual
-Turbo P-Core X Ratio Limit: 58 (5.80GHz / Auto defaults to max Turbo clock speeds)
+Turbo P-Core X Ratio Limit: 57 (5.70GHz / Auto defaults to max Turbo clock speeds)
 Turbo E-Core X Ratio Limit: 43 (4.30GHz / Auto defaults to max Turbo clock speeds)
 
 DDR5 Auto Booster: Disabled
