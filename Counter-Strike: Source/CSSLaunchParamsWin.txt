@@ -8,4 +8,6 @@
 
 -refreshrate 240 -freq 240 also force refresh rate
 
+-vulkan uses DXVK for Source1 games
+
 -vulkan might NOT be supported in CS:S
