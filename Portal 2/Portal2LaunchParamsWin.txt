@@ -9,3 +9,5 @@
 -refreshrate 240 -freq 240 also force refresh rate
 
 -fullscreen may crash with -vulkan, use -windowed -noborder
+
+-vulkan uses DXVK for Source1 games
