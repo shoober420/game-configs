@@ -1,0 +1,11 @@
+-vulkan -w 3840 -h 2160 -threads 24 -fullscreen -clientport 65007 -console -forcenovsync -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+
+-condebug (creates console log, useful for cvarlist generation)
+
+-threads 24+ cause crashes on 13900kf (32 thread processor)
+
+-d3dex for HQ D3D
+
+-refreshrate 240 -freq 240 also force refresh rate
+
+-fullscreen may crash with -vulkan, use -windowed -noborder
