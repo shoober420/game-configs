@@ -11,3 +11,7 @@
 -fullscreen may crash with -vulkan, use -windowed -noborder
 
 -vulkan uses DXVK for Source1 games
+
+DXVK can be updated on Windows by swapping old bin/dxvk_d3d9.dll file with new DXVK x32/d3d.dll and matching the original dll name.
+
+DXVK can be updated on Linux by compiling latest git master and swapping files.
