@@ -10,4 +10,4 @@
 
 -vulkan uses DXVK for Source1 games
 
--vulkan might NOT be supported in CS:S
+-vulkan DXVK NOT supported in CS:S yet
