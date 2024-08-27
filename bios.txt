@@ -87,9 +87,9 @@ Memory Channel Detection Message: Enabled
 
 Vcore Voltage Mode: Adaptive Vcore (If instability and stuttering occur, use Fixed Vcore)
 VF Offset Mode: Selection
-CPU Vcore: 1.400V (lower voltage significantly reduces temps)
+CPU Vcore: 1.450V (lower voltage significantly reduces temps)
 Dynamic Vcore (DVID): +0.000V
-Internal CPU Vcore: 1.400V
+Internal CPU Vcore: 1.450V
 Internal CPU Vcore Offset: -0.075V
 VF Point 1-5 Offset (Advanced Voltage Offset): Auto
 VF Point 6-10 Offset (Advanced Voltage Offset): Auto (-0.050V)
