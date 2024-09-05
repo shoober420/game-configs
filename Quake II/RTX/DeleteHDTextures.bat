@@ -5,6 +5,8 @@ rem # Be sure to delete the "models", "textures", and "sprites" folders in q2rx_
 rem # Deleting "env" removes sky and sky light
 
 rem # You must extract the "overrides" folder from q2rx_media.pkz into "Quake II RTX\baseq2" directory with 7zip first before running
+rem # Delete the current "overrides" folder inside q2rx_media.pkz with 7zip
+rem # Copy "overrides" folder back into q2rx_media.pkz with 7zip after running this batch script
 
 PAUSE
 
