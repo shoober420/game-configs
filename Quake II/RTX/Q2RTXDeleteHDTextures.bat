@@ -1,5 +1,6 @@
 rem # Deletes HD textures from q2rx_media.pkz file for Quake II RTX
-rem # Keeps light source and normal mapping files (_light.tga and _n.tga)
+rem # Keeps light source files (_light.tga)
+rem # Deletes normal mapping files (_n.tga)
 rem # Be sure to delete the "models", "textures", and "sprites" folders in q2rx_media.pkz file with 7zip
 
 rem # Deleting "env" removes sky and sky light
@@ -38,7 +39,7 @@ del /s /f *j.tga
 del /s /f *k.tga
 del /s /f *1.tga
 del /s /f *m.tga
-rem # del /s /f *n.tga
+del /s /f *n.tga
 del /s /f btelev_dn.tga
 del /s /f clip_mon.tga
 del /s /f location.tga
