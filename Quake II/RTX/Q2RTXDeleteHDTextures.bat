@@ -43,20 +43,12 @@ del /s /f *k.tga
 del /s /f *1.tga
 del /s /f *m.tga
 del /s /f *n.tga
-del /s /f btelev_dn.tga
-del /s /f clip_mon.tga
-del /s /f location.tga
-del /s /f origin.tga
 del /s /f *o.tga
 del /s /f *p.tga
 del /s /f *q.tga
 del /s /f *r.tga
 del /s /f *s.tga
 rem # del /s /f *t.tga
-del /s /f baselt_wht.tga
-del /s /f coolant.tga
-del /s /f doorbot.tga
-del /s /f hint.tga
 del /s /f *u.tga
 del /s /f *v.tga
 del /s /f *w.tga
@@ -145,20 +137,12 @@ del /s /f *k.tga
 del /s /f *1.tga
 del /s /f *m.tga
 del /s /f *n.tga
-del /s /f btelev_dn.tga
-del /s /f clip_mon.tga
-del /s /f location.tga
-del /s /f origin.tga
 del /s /f *o.tga
 del /s /f *p.tga
 del /s /f *q.tga
 del /s /f *r.tga
 del /s /f *s.tga
 rem # del /s /f *t.tga
-del /s /f baselt_wht.tga
-del /s /f coolant.tga
-del /s /f doorbot.tga
-del /s /f hint.tga
 del /s /f *u.tga
 del /s /f *v.tga
 del /s /f *w.tga
