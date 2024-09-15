@@ -2,7 +2,7 @@
 
 -condebug (creates console log, useful for cvarlist generation)
 
--threads 24+ cause crashes on 13900kf (32 thread processor)
+-threads X causing crashes is a sign of an instable overclock, threads X should match processor thread count (13900k 32 threads)
 
 -d3dex for HQ D3D
 
