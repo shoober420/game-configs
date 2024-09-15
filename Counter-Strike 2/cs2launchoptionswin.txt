@@ -4,7 +4,7 @@
 
 -windowed -noborder (possibly needed for 4:3 stretched using Vulkan API) (Vulkan has a bug that could force black bars for 4:3 resolutions)
 
--threads 24+ cause crashes on 13900kf (32 thread processor)
+-threads X causing crashes is a sign of an instable overclock, threads X should match processor thread count (13900k 32 threads)
 
 -refreshrate 240 -freq 240 also force refresh rate
 
