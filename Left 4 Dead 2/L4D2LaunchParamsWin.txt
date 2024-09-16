@@ -1,8 +1,9 @@
--vulkan -w 3840 -h 2160 -threads 24 -fullscreen -clientport 65007 -console -forcenovsync -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+-vulkan -w 3840 -h 2160 -fullscreen -clientport 65007 -console -forcenovsync -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 -condebug (creates console log, useful for cvarlist generation)
 
--threads X causing crashes is a sign of an instable overclock, threads X should match processor thread count (13900k 32 threads)
+-threads: Let the engine decide how many threads it spawns, by omitting the threads launch option (Valve confirmed)
+ + If threads is not set, the number of threads in the global thread pool is 'number of logical processors - 2', unless that value is larger than 3 (in which case 3 is the number of threads)
 
 -d3dex for HQ D3D
 
