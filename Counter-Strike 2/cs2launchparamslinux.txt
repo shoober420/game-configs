@@ -1,9 +1,12 @@
 ### fullscreen windowed may be required to fix random minimizing during gameplay
 
-LD_PRELOAD='/usr/lib32/libSDL2.so /usr/lib32/libopenal.so /usr/lib/libSDL2.so /usr/lib/libopenal.so /usr/lib64/libSDL2.so /usr/lib64/libopenal.so' RADV_PERFTEST=nggc,aco MESA_GL_VERSION_OVERRIDE=4.6 MESA_GLSL_VERSION_OVERRIDE=460 mesa_glthread=true %command% -vulkan -clientport 65007 -console -forcenovsync -fullscreen -h 960 -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nostartupsound -nosteamcontroller -novid -preload -refresh 240 -refreshrate 240 -freq 240 -threads 8 -tickrate 128 -w 1280 +exec autoexec.cfg -nocrashdialog -nodns -nomessagebox -no-browser -noaafonts +snd_use_hrtf 0 +mat_queue_mode 2
+LD_PRELOAD='/usr/lib32/libSDL2.so /usr/lib32/libopenal.so /usr/lib/libSDL2.so /usr/lib/libopenal.so /usr/lib64/libSDL2.so /usr/lib64/libopenal.so' RADV_PERFTEST=nggc,aco MESA_GL_VERSION_OVERRIDE=4.6 MESA_GLSL_VERSION_OVERRIDE=460 mesa_glthread=true %command% -vulkan -clientport 65007 -console -forcenovsync -fullscreen -h 960 -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nostartupsound -nosteamcontroller -novid -preload -refresh 240 -refreshrate 240 -freq 240 -tickrate 128 -w 1280 +exec autoexec.cfg -nocrashdialog -nodns -nomessagebox -no-browser -noaafonts +snd_use_hrtf 0 +mat_queue_mode 2
 
 -condebug (creates console log, useful for cvarlist generation)
 
 -windowed -noborder (possibly needed for 4:3 stretched using Vulkan API) (Vulkan has a bug that could force black bars for 4:3 resolutions)
+
+-threads: Let the engine decide how many threads it spawns, by omitting the threads launch option (Valve confirmed)
+ + If threads is not set, the number of threads in the global thread pool is 'number of logical processors - 2', unless that value is larger than 3 (in which case 3 is the number of threads)
 
 bind alt "toggle cl_radar_scale 1 0.3; toggle cl_radar_always_centered 1 0" (could trigger kick from server by VACNet)
