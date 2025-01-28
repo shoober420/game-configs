@@ -1,3 +1,5 @@
+Intel SpeedStep required for TurboBoost speeds to be enabled in some BIOS (Dell)
+
 GIGABYTE Aorus Master BIOS Settings
 ============================================
 
