@@ -3,6 +3,10 @@
  - Wait for Vertical Sync: Disabled
  - Current Video Values Preset: Low (Custom)
 
+ - V-Sync: Disabled
+ - AMD Anti-Lag 2.0: Disabled
+ - Maximum FPS In Game: 999
+
  - Multisampling Anti-Aliasing Mode: None
  - Global Shadow Quality: High (for accurate shadows)
  - Dynamic Shadows: All (for accurate shadows)
