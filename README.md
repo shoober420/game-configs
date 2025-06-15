@@ -22,6 +22,7 @@ Video game configuration files
 * Hexen II
 * Kingpin: Life of Crime
 * Left 4 Dead 2
+* Marvel Rivals
 * Medal of Honor: Allied Assault
 * Portal
 * Portal 2
