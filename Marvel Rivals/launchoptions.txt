@@ -2,4 +2,7 @@
 
 -preferAMD
 -preferNvidia
--vulkan
+-vulkan (graphics glitches)
+
+does not support -opengl or -d3d11
+does not support -sm5
