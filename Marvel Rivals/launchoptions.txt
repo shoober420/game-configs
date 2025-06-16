@@ -1,0 +1,5 @@
+-USEALLAVAILABLECORES -NOSPLASH -d3d12 -dx12 -novid -novideo -fullscreen -DisableTouch -NoGamepad -nohdr -nometalfence -nometalheap -nometalparallelencoder -nometalv2 -nomsaa -noraytracing -novsync -sm6
+
+-preferAMD
+-preferNvidia
+-vulkan
