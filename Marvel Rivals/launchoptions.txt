@@ -6,3 +6,5 @@
 
 does not support -opengl or -d3d11
 does not support -sm5
+
+UID is at the bottom left of the screen after logging in
