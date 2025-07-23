@@ -1,0 +1,59 @@
+Verizon Router Settings
+
+Advanced
+-------------
+
+Wi-Fi > Primary Network:
+ - Security: WPA3
+
+Devices > Universal Plug & Play:
+ - UPnP Enabled: Unticked
+
+Security & Firewall > General:
+ - IPv4 Settings: Normal Security
+ - IPv6 Settings: High Security
+
+Security & Firewall > DMZ Host: OFF
+
+Security & Firewall > IPv6 PPinholes: NONE
+
+Security & Firewall > Port Forwarding: NONE
+
+Security & Firewall > Port Forwarding Rules: NONE
+
+Security & Firewall > Port Triggering: NONE
+
+Security & Firewall > Scheduler Rules: NONE
+
+Security & Firewall > SIP ALG: Disabled
+
+Network Settings > DNS Server:
+ - Enable DNS Rebind Proction: Checked
+
+Network Settings > IPv6:
+ - Enable IPv6 Support: Disabled
+ - Allow ICMPv6 Echo Requests for LAN devices using their Global IPv6 Address from WAN side: Unticked
+
+Network Settings > Routing:
+ - Internet Group Management Protocol (IGMP): ALL UNTICKED
+
+System > Date & Time:
+ - Automatic Time Update: Disable
+
+System > LED Brightness:
+ - LED Brightness: 100%
+ - LED Timeout: Never
+
+System > Remote Administration: ALL UNTICKED
+
+System > System Settings:
+ - SET NEW PASSWORD
+ - System Logging: Disable
+
+
+
+Firmware updates automatically
+Forced firmware update can be done by factory resetting the router
+
+
+
