@@ -11,6 +11,7 @@ Wi-Fi > Primary Network:
  - 6 GHz: Wi-Fi Enabled
   - Wi-Fi QoS (WMM): Disabled
   - WMM Power Save: Disabled
+   + Enables IoT Network Wi-Fi, make sure to disable afterward
 
 Wi-Fi > Guest Network: Wi-Fi Disabled
 
