@@ -36,6 +36,11 @@ Network Settings > IPv6:
 
 Network Settings > Routing:
  - Internet Group Management Protocol (IGMP): ALL UNTICKED
+ - Enable Ethernet: Unticked
+ - Enable MoCA - Coax: Unticked
+ - Enable 2.4 GHz Wi-Fi: Unticked
+ - Enable 5 GHz Wi-Fi: Unticked
+ - Enable 6 GHz Wi-Fi: Unticked
 
 System > Date & Time:
  - Automatic Time Update: Disable
@@ -45,6 +50,12 @@ System > LED Brightness:
  - LED Timeout: Never
 
 System > Remote Administration: ALL UNTICKED
+ - Using Primary IPv4 HTTPS Port (443): Unticked
+ - Allow Incoming IPv4 WAN ICMP Echo Requests (e.g. pings and ICMP traceroute queries): Unticked
+ - Allow Incoming IPv4 WAN UDP Traceroute Queries: Unticked
+ - Using Primary IPv6 HTTPS Port (443): Unticked
+ - Allow Incoming IPv6 WAN ICMP Echo Requests (e.g. pings and ICMP traceroute queries): Unticked
+ - Allow Incoming IPv6 WAN UDP Traceroute Queries: Unticked
 
 System > System Settings:
  - SET NEW PASSWORD
