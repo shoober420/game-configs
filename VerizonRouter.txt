@@ -5,9 +5,9 @@ Advanced
 
 Wi-Fi > Primary Network:
  - Security: WPA3
- - Broadcast Wi-Fi network name (SSID): Disabled (Enable if you want to have a viewable troll network name)
- - 2.4 GHz: Wi-Fi Enabled
- - 5 GHz: Wi-FI Enabled
+ - Broadcast Wi-Fi network name (SSID): Enabled (try Disabled first for more security and manually type in Network Name and password)
+ - 2.4 GHz: Wi-Fi Disabled
+ - 5 GHz: Wi-FI Disabled
  - 6 GHz: Wi-Fi Enabled
 
 Wi-Fi > Guest Network: Wi-Fi Disabled
