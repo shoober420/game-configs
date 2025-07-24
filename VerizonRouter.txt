@@ -9,6 +9,8 @@ Wi-Fi > Primary Network:
  - 2.4 GHz: Wi-Fi Disabled
  - 5 GHz: Wi-FI Disabled
  - 6 GHz: Wi-Fi Enabled
+  - Wi-Fi QoS (WMM): Disabled
+  - WMM Power Save: Disabled
 
 Wi-Fi > Guest Network: Wi-Fi Disabled
 
