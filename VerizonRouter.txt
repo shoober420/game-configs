@@ -5,16 +5,18 @@ Advanced
 
 Wi-Fi > Primary Network:
  - Self-Organizing Network: SON Disabled
- - Broadcast Wi-Fi network name (SSID): Enabled (try Disabled first for more security and manually type in Network Name and password)
  - 2.4 GHz: Wi-Fi Disabled
+   - Broadcast Wi-Fi network name (SSID): Disabled
   - Wi-Fi QoS (WMM): Disabled
   - WMM Power Save: Disabled
   - Security: WPA3
  - 5 GHz: Wi-FI Disabled
+  - Broadcast Wi-Fi network name (SSID): Disabled
   - Wi-Fi QoS (WMM): Disabled
   - WMM Power Save: Disabled
   - Security: WPA3
  - 6 GHz: Wi-Fi Enabled
+  - Broadcast Wi-Fi network name (SSID): Enabled (try Disabled for better security and manually enter Wi-Fi Name and password)
   - Wi-Fi QoS (WMM): Disabled
   - WMM Power Save: Disabled
   - Security: WPA3
