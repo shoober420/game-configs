@@ -28,7 +28,18 @@ Security & Firewall > IPv6 PPinholes: NONE
 
 Security & Firewall > Port Forwarding: NONE
 
-Security & Firewall > Port Forwarding Rules: NONE
+Security & Firewall > Port Forwarding Rules: REMOVE ALL RULES
+ - FTP: Remove
+ - HTTP: Remove
+ - HTTPS: Remove
+ - IMAP: Remove
+ - L2TP: Remove
+ - Ping: Remove
+ - POP3: Remove
+ - SMTP: Remove
+ - SNMP: Remove
+ - Telnet: Remove
+ - Traceroute: Remove
 
 Security & Firewall > Port Triggering: NONE
 
