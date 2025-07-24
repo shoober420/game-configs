@@ -4,6 +4,7 @@ Advanced
 -------------
 
 Wi-Fi > Primary Network:
+ - Self-Organizing Network: SON Disabled
  - Security: WPA3
  - Broadcast Wi-Fi network name (SSID): Enabled (try Disabled first for more security and manually type in Network Name and password)
  - 2.4 GHz: Wi-Fi Disabled
