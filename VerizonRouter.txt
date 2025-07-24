@@ -50,6 +50,9 @@ Network Settings > Routing:
  - Enable 5 GHz Wi-Fi: Unticked
  - Enable 6 GHz Wi-Fi: Unticked
 
+Diagnostics & Monitoring > System Logging:
+ - Firewall Log > Settings: ALL UNTICKED
+
 System > Date & Time:
  - Automatic Time Update: Disable
 
