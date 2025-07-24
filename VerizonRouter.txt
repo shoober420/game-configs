@@ -21,7 +21,7 @@ Security & Firewall > General:
  - IPv4 Settings: Normal Security
  - IPv6 Settings: High Security
 
-Security & Firewall > DMZ Host: OFF
+Security & Firewall > DMZ Host: Disabled
 
 Security & Firewall > IPv6 PPinholes: NONE
 
