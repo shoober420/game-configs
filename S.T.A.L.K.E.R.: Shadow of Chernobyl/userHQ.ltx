@@ -15,7 +15,9 @@
 // 4:3 resolutions are required to fix minor shadow glitches on the left and right edges of the screen when using 16:9 resolutions
 
 _preset Extreme
-ai_use_torch_dynamic_lights on
+_frame_limit "999"
+ai_use_torch_spot_light on
+ai_use_torch_spot_light_shadows on
 bemsg 1
 unbindall
 bind left kLEFT
