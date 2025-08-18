@@ -1,0 +1,262 @@
+// Enhanced Edition High Quality Script
+// r2_gi (Global Illumination adds too much light, and alters original look of game, NOT VANILLA DONT USE)
+// r2_ls_bloom_fast adds too much blur, and alters original look of game, NOT VANILLA DONT USE)
+// -smap4096 command line parameter for max quality shadows
+// texture_lod is Texture Detail in Video options, 0 is max quality, 4 is max performance
+// rs_vis_distance is Vision Distance in Video options, 1.5 is max quality, 0.4 is max performance
+// r__geometry_lod is Object Detail in Video options, 1.2 is max quality, 0.1 is max performance
+// r__detail_density is Grass Density in Video options, 0.2 is max quality, 0.6 is max performance
+// r__supersample is Antialiasing in Video options, 4 is max quality, 1 is max performance
+// r__tf_aniso is Anisotropic filtering in Video options, 16 is max quality, 1 is max performance
+// r2_aa = software antialiasing
+// r2_sun_near 20 fixes disappearing grass shadows
+// r2_sun_near_border 1 fixes glitchy shadows on the sides of the monitor using widescreen resolutions 
+// r2_sun_depth_near_bias -0.00001 fixes shadow shimmer on textures
+// r2_sun_depth_far_bias 0 fixes shadows disappearing from a distance
+
+// 4:3 resolutions are required to fix minor shadow glitches on the left and right edges of the screen when using 16:9 resolutions
+
+_preset Extreme
+_frame_limit 999
+ai_use_torch_dynamic_lights on
+ai_use_torch_spot_light on
+ai_use_torch_spot_light_shadows on
+bemsg 1
+unbindall
+bind left kLEFT
+bind right kRIGHT
+bind up kUP
+bind down kDOWN
+bind jump kSPACE
+bind crouch kLCONTROL
+bind accel kLSHIFT
+bind sprint_toggle kX
+bind forward kW
+bind back kS
+bind lstrafe kA
+bind rstrafe kD
+bind llookout kQ
+bind rlookout kE
+bind cam_zoom_in kADD
+bind cam_zoom_out kSUBTRACT
+bind torch kL
+bind night_vision kN
+bind wpn_1 k1
+bind wpn_2 k2
+bind wpn_3 k3
+bind wpn_4 k4
+bind wpn_5 k5
+bind wpn_6 k6
+bind artefact k7
+bind wpn_next kY
+bind wpn_fire mouse1
+bind wpn_zoom mouse2
+bind wpn_reload kR
+bind wpn_func kV
+bind wpn_firemode_prev k9
+bind wpn_firemode_next k0
+bind pause kPAUSE
+bind drop kG
+bind use kF
+bind scores kTAB
+bind chat kCOMMA
+bind chat_team kPERIOD
+bind screenshot kF12
+bind quit kESCAPE
+bind console kGRAVE
+bind inventory kI
+bind buy_menu kB
+bind skin_menu kO
+bind team_menu kU
+bind active_jobs kP
+bind map kM
+bind contacts kH
+bind vote_begin kF5
+bind vote kF6
+bind vote_yes kF7
+bind vote_no kF8
+bind speech_menu_0 kC
+bind speech_menu_1 kZ
+bind use_bandage kRBRACKET
+bind use_medkit kLBRACKET
+bind quick_save kF6
+bind quick_load kF7
+cam_inert 0.
+cam_slide_inert 0.25
+cl_cod_pickup_mode 1
+cl_dynamiccrosshair off
+g_always_run on
+g_autopickup on
+g_backrun on
+g_corpsenum 100
+g_eventdelay 0
+g_game_difficulty gd_master
+hud_crosshair on
+hud_crosshair_dist off
+hud_info on
+hud_weapon on
+load_last_save all
+mm_mm_net_srv_dedicated off
+mm_net_con_publicserver off
+mm_net_con_spectator 0
+mm_net_con_spectator_on off
+mm_net_filter_battleye on
+mm_net_filter_empty on
+mm_net_filter_full on
+mm_net_filter_listen on
+mm_net_filter_pass on
+mm_net_filter_wo_ff on
+mm_net_filter_wo_pass on
+mm_net_srv_gamemode st_deathmatch
+mm_net_srv_maxplayers 32
+mm_net_srv_name RAVENWOLF_-
+mm_net_srv_reinforcement_type 1
+mm_net_use_battleye off
+mm_net_weather_rateofchange 1.
+mouse_invert off
+mouse_sens 0.12
+net_cl_icurvesize 0
+net_cl_icurvetype 0
+net_cl_interpolation 0.
+net_cl_log_data off
+net_cl_update_rate 100
+net_compressor_enabled 0
+net_compressor_gather_stats 0
+net_dbg_dump_export_obj 0
+net_dbg_dump_import_obj 0
+net_dbg_dump_update_read 0
+net_dbg_dump_update_write 0
+net_dedicated_sleep 5
+net_sv_gpmode 0
+net_sv_log_data off
+net_sv_pending_lim 3
+net_sv_update_rate 100
+ph_frequency 100.00000
+ph_iterations 38
+r1_detail_textures on
+r1_dlights on
+r1_dlights_clip 75.
+r1_glows_per_frame 32
+r1_lmodel_lerp 0.1
+r1_pps_u 0.
+r1_pps_v 0.
+r1_ssa_lod_a 96.
+r1_ssa_lod_b 64.
+r1_tf_mipbias -0.5
+r2_aa off
+r2_aa_break 0.800000,0.500000,0.000000
+r2_aa_kernel 0.5
+r2_aa_weight 0.250000,0.250000,0.000000
+r2_allow_r1_lights off
+r2_gi off
+r2_gi_clip 0.001
+r2_gi_depth 1
+r2_gi_photons 16
+r2_gi_refl 0.9
+r2_gloss_factor 1.5
+r2_ls_bloom_fast off
+r2_ls_bloom_kernel_b 0.7
+r2_ls_bloom_kernel_g 3.
+r2_ls_bloom_kernel_scale 0.7
+r2_ls_bloom_speed 100.
+r2_ls_bloom_threshold 0.001
+r2_ls_depth_bias -0.0003
+r2_ls_depth_scale 1.00001
+r2_ls_dsm_kernel 0.7
+r2_ls_psm_kernel 0.7
+r2_ls_squality 1.
+r2_ls_ssm_kernel 0.7
+r2_mblur 0.
+r2_parallax_h 0.02
+r2_slight_fade 2.
+r2_ssa_lod_a 96.
+r2_ssa_lod_b 64.
+r2_sun on
+r2_sun_depth_far_bias 0
+r2_sun_depth_far_scale 1.
+r2_sun_depth_near_bias -0.00001
+r2_sun_depth_near_scale 1.
+r2_sun_details on
+r2_sun_focus on
+r2_sun_lumscale 1.
+r2_sun_lumscale_amb 0.5
+r2_sun_lumscale_hemi 1.
+r2_sun_near 20.
+r2_sun_near_border 1.00
+r2_sun_tsm on
+r2_sun_tsm_bias -0.01
+r2_sun_tsm_proj 0.3
+r2_tf_mipbias -0.5
+r2_tonemap on
+r2_tonemap_adaptation 1.
+r2_tonemap_amount 0.7
+r2_tonemap_lowlum 0.0001
+r2_tonemap_middlegray 0.6
+r2_wait_sleep 0
+r2_zfill off
+r2_zfill_depth 0.5
+r2em 2.2
+r__detail_density 0.2
+r__geometry_lod 1.2
+r__supersample 4
+r__tf_aniso 16
+renderer renderer_r2
+rs_c_brightness 1.
+rs_c_contrast 1.
+rs_c_gamma 1.
+rs_fullscreen on
+rs_refresh_60hz off
+rs_stats off
+rs_v_sync off
+rs_vis_distance 1.5
+snd_acceleration on
+snd_cache_size 32
+snd_efx off
+snd_targets 24
+snd_volume_eff 1.
+snd_volume_music 1.
+sv_anomalies_enabled 1
+sv_anomalies_length 3
+sv_artefact_respawn_delta 30
+sv_artefact_spawn_force 0
+sv_artefact_stay_time 3
+sv_artefacts_count 10
+sv_auto_team_balance 0
+sv_auto_team_swap 1
+sv_bearercantsprint 1
+sv_client_reconnect_time 60
+sv_console_update_rate 1
+sv_dedicated_server_update_rate 100
+sv_dmgblockindicator 1
+sv_dmgblocktime 0
+sv_dump_online_statistics_period 0
+sv_forcerespawn 0
+sv_fraglimit 10
+sv_friendly_indicators 0
+sv_friendly_names 0
+sv_friendlyfire 1.
+sv_hail_to_winner_time 7
+sv_max_ping_limit 2000
+sv_pda_hunt 1
+sv_reinforcement_time 0
+sv_remove_corpse 1
+sv_remove_weapon 1
+sv_returnplayers 1
+sv_rpoint_freeze_time 0
+sv_shieldedbases 1
+sv_spectr_firsteye 1
+sv_spectr_freefly 0
+sv_spectr_freelook 1
+sv_spectr_lookat 1
+sv_spectr_teamcamera 1
+sv_statistic_collect 1
+sv_teamkill_limit 3
+sv_teamkill_punish 1
+sv_timelimit 0
+sv_vote_enabled 255
+sv_vote_participants 0
+sv_vote_quota 0.51
+sv_vote_time 1.
+sv_warm_up 0
+texture_lod 0
+vid_mode 4096x2160
