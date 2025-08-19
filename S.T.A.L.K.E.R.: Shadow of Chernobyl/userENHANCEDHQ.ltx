@@ -18,6 +18,7 @@
 // r2_allow_d1_lights 1 enables DX8 lighting (KEEP DISABLED)
 // r2_slight_fade sets distance of lighting
 // r3_dynamic_wet_surfaces_sm_res controls wet surfaces resolution, 2048 max quality, 64 low quality
+// _frame_limit CANT BE SET TO 999, 75 IS MAX, MUST USE 0
 // mtb_sss = SubSurface Scattering (SSS) / SubSurface Light Transport (SSLT)
 // mtb_ssgi = Screen Space Global Illumination (SSGI)
 
@@ -27,7 +28,7 @@
 
 EULA_Accept 1
 _preset Extreme
-_frame_limit 999
+_frame_limit 0
 ai_use_torch_dynamic_lights on
 ai_use_torch_spot_light on
 ai_use_torch_spot_light_shadows on
