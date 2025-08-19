@@ -4,7 +4,11 @@
 // r3 = DirectX 10 mode
 // r4 = DirectX 11 mode
 // r2_gi (Global Illumination adds too much light, and alters original look of game, NOT VANILLA DONT USE)
-// USE HDAO (HQ) instead of HBAO (PERF) for SSAO
+// r2_ssao: st_opt_off / st_opt_ultra
+// r2_ssao_mode: ui_mm_hdao / ui_mm_hbao
+// High Definition Ambient Occultion (HDAO)
+// Horizon Based Ambient Occlusion (HBAO)
+// HDAO = ATI cards / HBAO = NVidia cards
 // r2_ls_bloom_fast adds too much blur, and alters original look of game, NOT VANILLA DONT USE)
 // -smap4096 command line parameter for max quality shadows
 // texture_lod is Texture Detail in Video options, 0 is max quality, 4 is max performance
@@ -205,11 +209,11 @@ r2_soft_particles on
 r2_soft_water on
 r2_ssa_lod_a 96.
 r2_ssa_lod_b 64.
-r2_ssao st_opt_ultra
-r2_ssao_blur on
+r2_ssao st_opt_off
+r2_ssao_blur off
 r2_ssao_hbao off
-r2_ssao_hdao on
-r2_ssao_mode ui_mm_hdao
+r2_ssao_hdao off
+r2_ssao_mode st_opt_off
 r2_steep_parallax on
 r2_sun on
 r2_sun_details on
