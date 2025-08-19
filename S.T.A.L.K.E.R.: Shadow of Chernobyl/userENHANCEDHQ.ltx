@@ -18,6 +18,7 @@
 // r2_allow_d1_lights 1 enables DX8 lighting (KEEP DISABLED)
 // r2_slight_fade sets distance of lighting
 // r3_dynamic_wet_surfaces_sm_res controls wet surfaces resolution, 2048 max quality, 64 low quality
+// mtb_sss = SubSurface Scattering (SSS) / SubSurface Light Transport (SSLT)
 
 // TWEAK vid_mode TO DESIRED RESOLUTION BEFORE LAUNCH
 
@@ -128,6 +129,30 @@ mm_net_use_battleye off
 mm_net_weather_rateofchange 1.
 mouse_invert off
 mouse_sens 0.12
+mt_render_geometry on
+mt_render_portals on
+mt_render_spatial on
+mtb.discardparticles.ssa 0
+mtb.render.mt 1
+mtb.shadows.fade 1
+mtb.shadows.use_separate_range 1
+mtb.skybox.clouds 1
+mtb.tess.max_factor 64.
+mtb.tess.range 10000.
+mtb_async_compute on
+mtb_motionblur off
+mtb_rain_max_desired_items 6000
+mtb_smapsize 4096
+mtb_upscaler_type st_opt_off
+mtb_sss on
+mtb_volumetricLighting_numslices 100
+mtb_volumetric_lighting_render_mode full_res
+mtb_vrs off
+mtb_ssgi off
+mtb_ssgi_compute off
+mtb_ssgi_compute_classify off
+mtb_ssgi_debug off
+mtb_ssgi_pixel_tiled_render off
 mtb_fsr_allow_async_compute off
 mtb_fsr_enable_sharpen off
 mtb_fsr_frame_generation off
