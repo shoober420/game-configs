@@ -19,8 +19,9 @@
 // r2_slight_fade sets distance of lighting
 // r3_dynamic_wet_surfaces_sm_res controls wet surfaces resolution, 2048 max quality, 64 low quality
 // _frame_limit CANT BE SET TO 999, 75 IS MAX, MUST USE 0
-// mtb_sss = SubSurface Scattering (SSS) / SubSurface Light Transport (SSLT)
+// mtb_sss = Screen Space Shadows
 // mtb_ssgi = Screen Space Global Illumination (SSGI)
+// SSGI CANT BE USED WITH SSAO, SSGI IS MORE HQ THAN SSAO
 
 // TWEAK vid_mode TO DESIRED RESOLUTION BEFORE LAUNCH
 
@@ -125,7 +126,7 @@ mm_net_filter_wo_ff on
 mm_net_filter_wo_pass on
 mm_net_srv_gamemode st_deathmatch
 mm_net_srv_maxplayers 32
-mm_net_srv_name RAVENWOLF_-
+mm_net_srv_name SHOOBER420_-
 mm_net_srv_reinforcement_type 1
 mm_net_use_battleye off
 mm_net_weather_rateofchange 1.
