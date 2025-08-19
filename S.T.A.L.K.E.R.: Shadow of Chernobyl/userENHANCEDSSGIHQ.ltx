@@ -16,7 +16,7 @@
 // rs_vis_distance is Vision Distance in Video options, 1.5 is max quality, 0.4 is max performance
 // r__geometry_lod is Object Detail in Video options, 1.2 is max quality, 0.1 is max performance
 // r__detail_density is Grass Density in Video options, 0.2 is max quality, 0.6 is max performance
-// r__supersample is Anti-Aliasing in Video options, 4 is max quality, 1 is max performance
+// r__supersample is Anti-Aliasing in Video options, 4/8 is max quality, 1 is max performance
 // r__tf_aniso is Anisotropic filtering in Video options, 16 is max quality, 1 is max performance
 // r__dtex_range 175 is high quality, 5 is low quality
 // r2_aa = software Anti-Aliasing
@@ -240,6 +240,8 @@ r2_tonemap on
 r2_wait_sleep 0
 r2_zfill off
 r2_sun_quality st_opt_high
+r2_detail_bump on
+r2_volumetric_lights on
 r3_dynamic_wet_surfaces on
 r3_dynamic_wet_surfaces_sm_res 2048
 r3_gbuffer_opt on
@@ -251,7 +253,7 @@ r4_enable_tessellation on
 r__detail_density 0.2
 r__dtex_range 175
 r__geometry_lod 1.2
-r__supersample 4
+r__supersample 8
 r__tf_aniso 16
 r_gunshot_shadows on
 r_mtb_grass_draw_distance 400.
