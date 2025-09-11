@@ -5,7 +5,7 @@
 	"DeviceID"		"29504"
 	"setting.cpu_level"		"1"
 	"setting.gpu_mem_level"		"3"
-	"setting.gpu_level"		"3"
+	"setting.gpu_level"		"1"
 	"setting.knowndevice"		"1"
 	"setting.defaultres"		"1024"
 	"setting.defaultresheight"		"768"
