@@ -4,6 +4,8 @@
 
 -vulkan: DXVK REQUIRED
 
+-high LOWERS FPS
+
 -limitvsconst will limit the game's number of vertex shaders to a maximum of 256
 
 -condebug (creates console log, useful for cvarlist generation)
