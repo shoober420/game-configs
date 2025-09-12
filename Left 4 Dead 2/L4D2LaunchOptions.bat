@@ -1,4 +1,10 @@
+rem # PERFORMANCE
 -lv -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -softparticlesdefaultoff -limitvsconst -precachefontchars -clientport 65007 -console -forcenovsync -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser -noaafonts -nomsaa +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+
+rem # HIGH QUALITY
+-lv -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -precachefontchars -clientport 65007 -console -forcenovsync -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+
+
 
 rem # -lv: low violence
 
