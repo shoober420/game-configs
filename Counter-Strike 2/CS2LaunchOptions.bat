@@ -1,5 +1,5 @@
 rem # ADD TO STEAM GAME LAUNCH OPTIONS
-rem # "%USERPROFILE%\Downloads\game-configs-maim\Counter-Strike 2\CS2LaunchOptions.bat" %command%
+rem # "%USERPROFILE%\Downloads\game-configs-main\Counter-Strike 2\CS2LaunchOptions.bat" %command%
 
 rem # PERFORMANCE
 -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 +exec autoexec.cfg
