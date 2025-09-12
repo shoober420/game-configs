@@ -1,11 +1,12 @@
 rem # ADD TO STEAM GAME LAUNCH OPTIONS
-rem # "%USERPROFILE%\Downloads\game-configs-main\Counter-Strike 2\CS2LaunchOptions.bat" %command%
+rem # %USERPROFILE% WONT WORK
+rem # "C:\Users\:USERNAME:\Downloads\game-configs-main\Counter-Strike 2\CS2LaunchOptions.bat" %command%
 
 rem # PERFORMANCE
--vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 +exec autoexec.cfg
+%1 -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 +exec autoexec.cfg
 
 rem # HIGH QUALITY
-rem -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noipx +mat_queue_mode 2 +exec autoexec.cfg
+rem %1 -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noipx +mat_queue_mode 2 +exec autoexec.cfg
 
 
 
