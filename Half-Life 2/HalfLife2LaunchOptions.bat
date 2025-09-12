@@ -1,5 +1,5 @@
 rem # ADD TO STEAM GAME LAUNCH OPTIONS
-rem # "%USERPROFILE%\Downloads\game-configs-maim\Half-Life 2\HalfLife2LaunchOptions.bat" %command%
+rem # "%USERPROFILE%\Downloads\game-configs-main\Half-Life 2\HalfLife2LaunchOptions.bat" %command%
 
 -vulkan -w 3840 -h 2160 -clientport 65007 -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -tickrate 128 -nodns -no-browser -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
