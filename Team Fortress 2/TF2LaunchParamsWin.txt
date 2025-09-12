@@ -2,6 +2,8 @@
 
 -condebug (creates console log, useful for cvarlist generation)
 
+-high LOWERS FPS
+
 -limitvsconst will limit the game's number of vertex shaders to a maximum of 256
 
 -threads: Let the engine decide how many threads it spawns, by omitting the threads launch option (Valve confirmed)
