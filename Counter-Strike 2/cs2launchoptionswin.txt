@@ -1,4 +1,4 @@
--vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts +exec autoexec.cfg
+-vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts -nomsaa +exec autoexec.cfg
 
 -high lowers FPS
 
