@@ -1,8 +1,8 @@
--lv -w 3840 -h 2160 -fullscreen -clientport 65007 -console -forcenovsync -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+-lv -vulkan -w 3840 -h 2160 -fullscreen -clientport 65007 -console -forcenovsync -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 -lv: low violence
 
--vulkan: BROKEN
+-vulkan: DXVK REQUIRED
 
 -condebug (creates console log, useful for cvarlist generation)
 
