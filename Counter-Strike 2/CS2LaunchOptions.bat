@@ -2,7 +2,7 @@ rem # PERFORMANCE
 -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 +exec autoexec.cfg
 
 rem # HIGH QUALITY
-rem # -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noipx +mat_queue_mode 2 +exec autoexec.cfg
+rem -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noipx +mat_queue_mode 2 +exec autoexec.cfg
 
 
 
