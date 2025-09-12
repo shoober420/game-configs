@@ -1,18 +1,18 @@
 -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 +exec autoexec.cfg
 
--high lowers FPS
+rem # -high lowers FPS
 
--limitvsconst will limit the game's number of vertex shaders to a maximum of 256
+rem # -limitvsconst will limit the game's number of vertex shaders to a maximum of 256
 
--condebug (creates console log, useful for cvarlist generation)
+rem # -condebug (creates console log, useful for cvarlist generation)
 
--windowed -noborder (possibly needed for 4:3 stretched using Vulkan API) (Vulkan has a bug that could force black bars for 4:3 resolutions)
+rem # -windowed -noborder (possibly needed for 4:3 stretched using Vulkan API) (Vulkan has a bug that could force black bars for 4:3 resolutions)
 
--threads: Let the engine decide how many threads it spawns, by omitting the threads launch option (Valve confirmed)
- + If threads is not set, the number of threads in the global thread pool is 'number of logical processors - 2', unless that value is larger than 3 (in which case 3 is the number of threads)
+rem # -threads: Let the engine decide how many threads it spawns, by omitting the threads launch option (Valve confirmed)
+rem # + If threads is not set, the number of threads in the global thread pool is 'number of logical processors - 2', unless that value is larger than 3 (in which case 3 is the number of threads)
 
--refreshrate 240 -freq 240 also force refresh rate
+rem # -refreshrate 240 -freq 240 also force refresh rate
 
-Native Vulkan is faster than native Direct3D (unless possibly NVIDIA Vulkan beta driver has faster Direct3D)
+rem # Native Vulkan is faster than native Direct3D (unless possibly NVIDIA Vulkan beta driver has faster Direct3D)
 
-bind alt "toggle cl_radar_scale 1 0.3; toggle cl_radar_always_centered 1 0" (could trigger kick from server by VACNet)
+rem # bind alt "toggle cl_radar_scale 1 0.3; toggle cl_radar_always_centered 1 0" (could trigger kick from server by VACNet)
