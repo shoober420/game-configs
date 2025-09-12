@@ -1,6 +1,8 @@
--vulkan -w 3840 -h 2160 -clientport 65007 -forcenovsync -fullscreen -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+-vulkan -w 3840 -h 2160 -clientport 65007 -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 -condebug (creates console log, useful for cvarlist generation)
+
+-high LOWERS FPS
 
 -threads: Let the engine decide how many threads it spawns, by omitting the threads launch option (Valve confirmed)
  + If threads is not set, the number of threads in the global thread pool is 'number of logical processors - 2', unless that value is larger than 3 (in which case 3 is the number of threads)
