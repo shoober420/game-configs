@@ -1,28 +1,28 @@
 -lv -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -softparticlesdefaultoff -limitvsconst -precachefontchars -clientport 65007 -console -forcenovsync -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser -noaafonts -nomsaa +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
--lv: low violence
+rem # -lv: low violence
 
--vulkan: DXVK REQUIRED
+rem # -vulkan: DXVK REQUIRED
 
--high LOWERS FPS
+rem # -high LOWERS FPS
 
--limitvsconst will limit the game's number of vertex shaders to a maximum of 256
+rem # -limitvsconst will limit the game's number of vertex shaders to a maximum of 256
 
--condebug (creates console log, useful for cvarlist generation)
+rem # -condebug (creates console log, useful for cvarlist generation)
 
--threads: Let the engine decide how many threads it spawns, by omitting the threads launch option (Valve confirmed)
- + If threads is not set, the number of threads in the global thread pool is 'number of logical processors - 2', unless that value is larger than 3 (in which case 3 is the number of threads)
+rem # -threads: Let the engine decide how many threads it spawns, by omitting the threads launch option (Valve confirmed)
+rem # + If threads is not set, the number of threads in the global thread pool is 'number of logical processors - 2', unless that value is larger than 3 (in which case 3 is the number of threads)
 
--d3dex for HQ D3D
+rem # -d3dex for HQ D3D
 
--refreshrate 240 -freq 240 also force refresh rate
+rem # -refreshrate 240 -freq 240 also force refresh rate
 
--fullscreen may crash with -vulkan, use -windowed -noborder
+rem # -fullscreen may crash with -vulkan, use -windowed -noborder
 
--vulkan uses DXVK for Source1 games
+rem # -vulkan uses DXVK for Source1 games
 
-DXVK can be updated on Windows by swapping old bin/dxvk_d3d9.dll file with new DXVK x32/d3d.dll and matching the original dll name.
+rem # DXVK can be updated on Windows by swapping old bin/dxvk_d3d9.dll file with new DXVK x32/d3d.dll and matching the original dll name.
 
-DXVK can be updated on Linux by compiling latest git master and swapping files.
+rem # DXVK can be updated on Linux by compiling latest git master and swapping files.
 
-DXVK is faster than native Direct3D
+rem # DXVK is faster than native Direct3D
