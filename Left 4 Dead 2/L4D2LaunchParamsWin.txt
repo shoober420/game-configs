@@ -1,8 +1,10 @@
--lv -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -nomsaa -softparticlesdefaultoff -precachefontchars -clientport 65007 -console -forcenovsync -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+-lv -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -nomsaa -softparticlesdefaultoff -limitvsconst -precachefontchars -clientport 65007 -console -forcenovsync -high -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser -noaafonts +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 -lv: low violence
 
 -vulkan: DXVK REQUIRED
+
+-limitvsconst will limit the game's number of vertex shaders to a maximum of 256
 
 -condebug (creates console log, useful for cvarlist generation)
 
