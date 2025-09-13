@@ -3,10 +3,14 @@ rem # %USERPROFILE% WONT WORK
 rem # "C:\Users\:USERNAME:\Downloads\game-configs-main\Left 4 Dead 2\L4D2LaunchOptions.bat" %command%
 
 rem # PERFORMANCE
-%1 -lv -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -softparticlesdefaultoff -limitvsconst -precachefontchars -clientport 65007 -console -forcenovsync -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser -noaafonts -nomsaa +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+start steam://rungameid/550 -lv -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -softparticlesdefaultoff -limitvsconst -precachefontchars -clientport 65007 -console -forcenovsync -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser -noaafonts -nomsaa +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+
+rem %1 -lv -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -softparticlesdefaultoff -limitvsconst -precachefontchars -clientport 65007 -console -forcenovsync -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser -noaafonts -nomsaa +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 rem # HIGH QUALITY
-rem %1 -lv -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -precachefontchars -clientport 65007 -console -forcenovsync -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+rem start steam://rungameid/550 -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -precachefontchars -clientport 65007 -console -forcenovsync -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+
+rem %1 -vulkan -w 3840 -h 2160 -fullscreen +mat_motion_blur_percent_of_screen_max 0 -precachefontchars -clientport 65007 -console -forcenovsync -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -noipx -no-browser +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 
 
