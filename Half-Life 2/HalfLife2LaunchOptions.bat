@@ -21,3 +21,7 @@ rem # DXVK can be updated on Windows by swapping old bin/dxvk_d3d9.dll file with
 rem # DXVK can be updated on Linux by compiling latest git master and swapping files.
 
 rem # DXVK is faster than native Direct3D
+
+rem # ADD TO STEAM GAME LAUNCH OPTIONS
+rem # %USERPROFILE% WONT WORK
+rem # "C:\Users\:USERNAME:\Downloads\game-configs-main\Counter-Strike_ Source\CSSLaunchOptions.bat" %command%
