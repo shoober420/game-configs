@@ -1,11 +1,11 @@
-rem # ADD TO STEAM GAME LAUNCH OPTIONS
-rem # %USERPROFILE% WONT WORK
-rem # "C:\Users\:USERNAME:\Downloads\game-configs-main\Counter-Strike_ Source\CSSLaunchOptions.bat" %command%
-
 rem # PERFORMANCE
-%1 -vulkan -w 3840 -h 2160 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+start steam://rungameid/240 -vulkan -w 3840 -h 2160 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+
+rem %1 -vulkan -w 3840 -h 2160 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 rem # HIGH QUALITY
+rem start steam://rungameid/240 -vulkan -w 3840 -h 2160 -clientport 65007 -console -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+
 rem %1 -vulkan -w 3840 -h 2160 -clientport 65007 -console -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 
@@ -30,3 +30,7 @@ rem # -vulkan DXVK NOT supported in CS:S yet
 rem # DXVK can be updated on Windows by swapping old bin/dxvk_d3d9.dll file with new DXVK x32/d3d.dll and matching the original dll name.
 
 rem # DXVK can be updated on Linux by compiling latest git master and swapping files.
+
+rem # ADD TO STEAM GAME LAUNCH OPTIONS
+rem # %USERPROFILE% WONT WORK
+rem # "C:\Users\:USERNAME:\Downloads\game-configs-main\Counter-Strike_ Source\CSSLaunchOptions.bat" %command%
