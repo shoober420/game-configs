@@ -1,8 +1,7 @@
-rem # ADD TO STEAM GAME LAUNCH OPTIONS
-rem # %USERPROFILE% WONT WORK
-rem # "C:\Users\:USERNAME:\Downloads\game-configs-main\Half-Life 2\HalfLife2LaunchOptions.bat" %command%
+rem # HIGH QUALITY
+start steam://rungameid/220 -vulkan -w 3840 -h 2160 -clientport 65007 -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -tickrate 128 -nodns -no-browser -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
-%1 -vulkan -w 3840 -h 2160 -clientport 65007 -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -tickrate 128 -nodns -no-browser -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+rem %1 -vulkan -w 3840 -h 2160 -clientport 65007 -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -tickrate 128 -nodns -no-browser -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 rem # -condebug (creates console log, useful for cvarlist generation)
 
