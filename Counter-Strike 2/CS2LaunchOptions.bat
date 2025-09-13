@@ -1,7 +1,3 @@
-rem # ADD TO STEAM GAME LAUNCH OPTIONS
-rem # %USERPROFILE% WONT WORK
-rem # "C:\Users\:USERNAME:\Downloads\game-configs-main\Counter-Strike 2\CS2LaunchOptions.bat" %command%
-
 rem # PERFORMANCE
 start steam://rungameid/730 -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 +exec autoexec.cfg
 
@@ -30,3 +26,7 @@ rem # -refreshrate 240 -freq 240 also force refresh rate
 rem # Native Vulkan is faster than native Direct3D (unless possibly NVIDIA Vulkan beta driver has faster Direct3D)
 
 rem # bind alt "toggle cl_radar_scale 1 0.3; toggle cl_radar_always_centered 1 0" (could trigger kick from server by VACNet)
+
+rem # ADD TO STEAM GAME LAUNCH OPTIONS
+rem # %USERPROFILE% WONT WORK
+rem # "C:\Users\:USERNAME:\Downloads\game-configs-main\Counter-Strike 2\CS2LaunchOptions.bat" %command%
