@@ -27,7 +27,7 @@
 	"setting.videocfg_texture_detail"		"0"
 	"setting.videocfg_particle_detail"		"0"
 	"setting.videocfg_ao_detail"		"0"
-	"setting.videocfg_hdr_detail"		"0"
+	"setting.videocfg_hdr_detail"		"3"
 	"setting.videocfg_fsr_detail"		"0"
 	"setting.monitor_index"		"0"
 	"setting.r_low_latency"		"0"
