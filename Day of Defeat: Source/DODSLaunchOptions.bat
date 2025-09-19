@@ -1,5 +1,5 @@
 rem # PERFORMANCE
-start steam://rungameid/300 -vulkan -width 3840 -height 2160 -clientport 65007 -console -forcenovsync -full -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -refreshrate 240 -freq 240 -frequency 240 -tickrate 128 -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+start steam://rungameid/300 -vulkan -width 3840 -height 2160 -w 3840 -h 2160 -clientport 65007 -console -forcenovsync -full -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -refreshrate 240 -freq 240 -frequency 240 -tickrate 128 -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 rem %1 -vulkan -w 3840 -h 2160 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -refresh 240 -tickrate 128 -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
