@@ -1,5 +1,5 @@
 rem # PERFORMANCE
-start steam://rungameid/730 -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 +exec autoexec.cfg
+start steam://rungameid/730 -vulkan -width 1600 -height 1200 -refresh 120 -refreshrate 120 -freq 120 -frequency 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 +exec autoexec.cfg
 
 rem %1 -vulkan -w 1600 -h 1200 -refresh 120 -refreshrate 120 -freq 120 -clientport 65007 -console -forcenovsync -fullscreen -limitvsconst -softparticlesdefaultoff -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -novid -preload -nodns -no-browser -noaafonts -nomsaa -noipx +mat_queue_mode 2 +exec autoexec.cfg
 
