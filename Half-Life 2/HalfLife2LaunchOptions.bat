@@ -1,5 +1,5 @@
 rem # HIGH QUALITY
-start steam://rungameid/220 -vulkan -width 3840 -height 2160 -clientport 65007 -forcenovsync -full -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -refreshrate 240 -freq 240 -frequency 240 -tickrate 128 -nodns -no-browser -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
+start steam://rungameid/220 -vulkan -width 3840 -height 2160 -w 3840 -h 2160 -clientport 65007 -forcenovsync -full -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -refreshrate 240 -freq 240 -frequency 240 -tickrate 128 -nodns -no-browser -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
 rem %1 -vulkan -w 3840 -h 2160 -clientport 65007 -forcenovsync -fullscreen -precachefontchars -noff -noforcemaccel -noforcemspd -nohltv -nojoy -nosteamcontroller -preload -refresh 240 -tickrate 128 -nodns -no-browser -noipx +mat_queue_mode 2 -nomessagebox -nocrashdialog -nostartupsound +exec autoexec.cfg
 
